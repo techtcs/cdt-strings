@@ -1,0 +1,458 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Key: "current_lang", English.value: "EN" -->
+    <string name="current_lang">IN</string>
+
+    <!-- Key: "main_title", English.value: "Days counter (Countdown timer)" -->
+    <string name="main_title">Penghitung hari (Penghitung waktu mundur)</string>
+
+    <!-- Key: "all_rights_reserved", English.value: "All rights reserved." -->
+    <string name="all_rights_reserved">Seluruh hak cipta.</string>
+    <!-- Key: "faq", English.value: "FAQ" -->
+    <string name="faq">FAQ</string>
+    <!-- Key: "rate", English.value: "Rate this app" -->
+    <string name="rate">Nilai aplikasi ini</string>
+    <!-- Key: "contact", English.value: "Contact us" -->
+    <string name="contact">Hubungi kami</string>
+    <!-- Key: "help_questions", English.value: "Questions? Do you need some help?" -->
+    <string name="help_questions">Ada pertanyaan? Apakah Anda membutuhkan bantuan?</string>
+
+    <!-- Key: "dialog_title_easter_egg", English.value: "CDT: Hi!!" -->
+    <string name="dialog_title_easter_egg">CDT: Hai !!</string>
+    <!-- Key: "dialog_msg_easter_egg", English.value: "Thanks for using CDT :)" -->
+    <string name="dialog_msg_easter_egg">Terima kasih telah menggunakan CDT :)</string>
+    <!-- Key: "lbl_version", English.value: "Version %1$s" -->
+    <string name="lbl_version">Versi %1$s</string>
+
+
+    <!-- Key: "title_activity_help", English.value: "Help" -->
+    <string name="title_activity_help">Tolong</string>
+    <!-- Key: "title_activity_about", English.value: "About" -->
+    <string name="title_activity_about">Tentang</string>
+
+    <!-- Key: "title_activity_settings", English.value: "Settings" -->
+    <string name="title_activity_settings">Pengaturan</string>
+
+    <!-- Key: "title_activity_backup", English.value: "BACKUP / RESTORE" -->
+    <string name="title_activity_backup">CADANGAN /KEMBALIKAN</string>
+    <!-- Key: "btn_backup", English.value: "Backup" -->
+    <string name="btn_backup">Cadangan</string>
+    <!-- Key: "btn_restore", English.value: "Restore" -->
+    <string name="btn_restore">Mengembalikan</string>
+    <!-- Key: "choose_bk_file", English.value: "Choose a backup file" -->
+    <string name="choose_bk_file">Pilih file cadangan</string>
+    <!-- Key: "save_bk_file", English.value: "Save backup file" -->
+    <string name="save_bk_file">Simpan file cadangan</string>
+
+    <!-- Key: "action_help", English.value: "Help" -->
+    <string name="action_help">Tolong</string>
+    <!-- Key: "get_pro_version", English.value: "Get PRO version" -->
+    <string name="get_pro_version">Dapatkan versi PRO</string>
+
+    <!-- Key: "chooser_title_send_by", English.value: "Send by" -->
+    <string name="chooser_title_send_by">Dikirim oleh</string>
+
+    <!-- Key: "action_edit", English.value: "Edit" -->
+    <string name="action_edit">Edit</string>
+    <!-- Key: "get_pro", English.value: "GET PRO" -->
+    <string name="get_pro">DAPATKAN PRO</string>
+    <!-- Key: "get_pro_price", English.value: "GET PRO ( %1$s )" -->
+    <string name="get_pro_price">DAPATKAN PRO ( %1$s)</string>
+    <!-- Key: "snackbar_details_and_delete_message", English.value: "Click for details OR swipe to delete." -->
+    <string name="snackbar_details_and_delete_message">Klik untuk detail ATAU geser untuk menghapus.</string>
+    <!-- Key: "title_notification_pro_pack", English.value: "CDT: Update report" -->
+    <string name="title_notification_pro_pack">CDT: Perbarui laporan</string>
+    <!-- Key: "delete_event_title", English.value: "Delete event" -->
+    <string name="delete_event_title">Hapus acara</string>
+    <!-- Key: "pro_pack_activated", English.value: "Thanks! :) PRO Pack Activated!" -->
+    <string name="pro_pack_activated">Terima kasih! :) Paket PRO Diaktifkan!</string>
+
+    <!-- Key: "pro_feature_locked", English.value: "This feature is available only in PRO pack. Do you want to get it?" -->
+    <string name="pro_feature_locked">Fitur ini hanya tersedia dalam paket PRO. Apakah Anda ingin mendapatkannya?</string>
+    <!-- Key: "pro_feature_locked_max_events", English.value: "Only %1$s events can be active simultaneously in the free version. Create as many events as you like and get more features with the PRO pack." -->
+    <string name="pro_feature_locked_max_events">Hanya %1$s acara yang dapat aktif secara bersamaan dalam versi gratis. Buat acara sebanyak yang Anda suka dan dapatkan lebih banyak fitur dengan paket PRO.</string>
+    <!-- Key: "btn_know_more", English.value: "Know more" -->
+    <string name="btn_know_more">Tahu lebih banyak</string>
+    <!-- Key: "lbl_pro_ad", English.value: "Follow up as many events as you like with the PRO pack!" -->
+    <string name="lbl_pro_ad">Tindak lanjuti acara sebanyak yang Anda suka dengan paket PRO!</string>
+
+    <!-- Key: "ORDER", English.value: "Sort order:" -->
+    <string name="ORDER">Sortir urutan:</string>
+
+    <!-- Key: "share", English.value: "SHARE" -->
+    <string name="share">BAGIKAN</string>
+    <!-- Key: "action_settings", English.value: "Settings" -->
+    <string name="action_settings">Pengaturan</string>
+    <!-- Key: "share_app_message", English.value: "Do you want to share this app with your friends?" -->
+    <string name="share_app_message">Apakah Anda ingin membagikan aplikasi ini dengan teman-teman Anda?</string>
+    <!-- Key: "share_app_extra_text", English.value: "Hi, I\'m using CDT to remember my special events! Download the app and check it out: https://play.google.com/store/apps/details?id=tech.tcsolution.cdt" -->
+    <string name="share_app_extra_text">Hai, saya menggunakan CDT untuk mengingat acara khusus saya! Unduh aplikasinya dan lihat: https://play.google.com/store/apps/details?id=tech.tcsolution.cdt</string>
+
+
+    <!-- Key: "answer_get", English.value: "Get PRO" -->
+    <string name="answer_get">Dapatkan PRO</string>
+    <!-- Key: "answer_cancel", English.value: "Cancel" -->
+    <string name="answer_cancel">Membatalkan</string>
+    <!-- Key: "answer_save", English.value: "Save" -->
+    <string name="answer_save">Menyimpan</string>
+    <!-- Key: "answer_yes_caps", English.value: "YES" -->
+    <string name="answer_yes_caps">IYA</string>
+    <!-- Key: "answer_cancel_caps", English.value: "CANCEL" -->
+    <string name="answer_cancel_caps" tools:ignore="ButtonCase">MEMBATALKAN</string>
+    <!-- Key: "answer_later", English.value: "Later" -->
+    <string name="answer_later">Kemudian</string>
+
+    <!-- Key: "pref_delete_confirmation", English.value: "Extra deletion confirmation" -->
+    <string name="pref_delete_confirmation">Konfirmasi penghapusan ekstra</string>
+    <!-- Key: "pref_delete_confirmation_summary", English.value: "Mark a checkbox before to delete an event" -->
+    <string name="pref_delete_confirmation_summary">Tandai kotak centang sebelumnya untuk menghapus acara</string>
+    <!-- Key: "pref_reset_all_button", English.value: "RESET DATA" -->
+    <string name="pref_reset_all_button">SETEL ULANG DATA</string>
+    <!-- Key: "pref_reset_all_button_summary", English.value: "This will reset all app data" -->
+    <string name="pref_reset_all_button_summary">Ini akan mengatur ulang semua data aplikasi</string>
+
+    <!-- Key: "load", English.value: "Loading ... This may take a while if the device is restarting" -->
+    <string name="load" tools:ignore="TypographyEllipsis">Memuat ... Ini mungkin memerlukan beberapa saat jika perangkat dimulai ulang</string>
+    <!-- Key: "pref_heading_general", English.value: "‣ GENERAL" -->
+    <string name="pref_heading_general">‣ UMUM</string>
+    <!-- Key: "pref_heading_pro", English.value: "★ PRO" -->
+    <string name="pref_heading_pro">★ PRO</string>
+
+    <!-- Key: "lbl_active_events", English.value: "Active events" -->
+    <string name="lbl_active_events">Peristiwa aktif</string>
+    <!-- Key: "lbl_past_events", English.value: "Past events" -->
+    <string name="lbl_past_events">Acara lampau</string>
+
+    <!-- Key: "turn_on_notifications_message", English.value: "Notifications are important for a better user experience. Would you like to turn them on?" -->
+    <string name="turn_on_notifications_message">Pemberitahuan penting untuk pengalaman pengguna yang lebih baik. Apakah Anda ingin menyalakannya?</string>
+    <!-- Key: "turn_on_notifications_title", English.value: "Turn on notifications" -->
+    <string name="turn_on_notifications_title">Hidupkan notifikasi</string>
+
+    <!-- Key: "lbl_title", English.value: "Title:" -->
+    <string name="lbl_title">Judul:</string>
+    <!-- Key: "lbl_event_hint", English.value: "Event..." -->
+    <string name="lbl_event_hint" tools:ignore="TypographyEllipsis">Peristiwa...</string>
+    <!-- Key: "lbl_description_hint", English.value: "..." -->
+    <string name="lbl_description_hint" tools:ignore="TypographyEllipsis">...</string>
+    <!-- Key: "lbl_start_title", English.value: "Countdown timer" -->
+    <string name="lbl_start_title">Penghitung waktu mundur</string>
+    <!-- Key: "lbl_category", English.value: "Category:" -->
+    <string name="lbl_category">Kategori:</string>
+    <!-- Key: "lbl_description", English.value: "Description:" -->
+    <string name="lbl_description">Deskripsi:</string>
+    <!-- Key: "lbl_start_date", English.value: "Start date:" -->
+    <string name="lbl_start_date">Mulai tanggal:</string>
+    <!-- Key: "lbl_finish_date", English.value: "Finish date:" -->
+    <string name="lbl_finish_date">Tanggal selesai:</string>
+    <!-- Key: "lbl_reminder_when", English.value: "Reminder:" -->
+    <string name="lbl_reminder_when">Peringatan:</string>
+    <!-- Key: "lbl_last_reminder_before_x_hours", English.value: "Last reminder" -->
+    <string name="lbl_last_reminder_before_x_hours">Pengingat Terakhir</string>
+    <!-- Key: "lbl_last_reminder_before_x_hours_sub", English.value: "(Notify X hours before)" -->
+    <string name="lbl_last_reminder_before_x_hours_sub">(Beri tahu X jam sebelumnya)</string>
+    <!-- Key: "start", English.value: "START" -->
+    <string name="start">MULAILAH</string>
+
+    <!-- Key: "lbl_days_zero", English.value: "0 days" -->
+    <string name="lbl_days_zero">0 hari</string>
+
+    <plurals name="lbl_days">
+        <!-- Key: "lbl_days.one", English.value: "%1$s day" -->
+        <item quantity="one">%1$s hari</item>
+        <!-- Key: "lbl_days.other", English.value: "%1$s days" -->
+        <item quantity="other">%1$s hari</item>
+    </plurals>
+
+    <!-- Key: "lbl_reminder_when_daily", English.value: "Daily" -->
+    <string name="lbl_reminder_when_daily" tools:ignore="TypographyEllipsis">Harian</string>
+    <!-- Key: "lbl_reminder_when_weekly_on_mondays", English.value: "Weekly (on Mondays)" -->
+    <string name="lbl_reminder_when_weekly_on_mondays" tools:ignore="TypographyEllipsis">Mingguan (pada hari Senin)</string>
+    <!-- Key: "lbl_reminder_when_weekly_on_saturdays", English.value: "Weekly (on Saturdays)" -->
+    <string name="lbl_reminder_when_weekly_on_saturdays" tools:ignore="TypographyEllipsis">Mingguan (pada hari Sabtu)</string>
+    <!-- Key: "lbl_reminder_when_weekly_on_sundays", English.value: "Weekly (on Sundays)" -->
+    <string name="lbl_reminder_when_weekly_on_sundays" tools:ignore="TypographyEllipsis">Mingguan (pada hari Minggu)</string>
+    <!-- Key: "lbl_reminder_when_monthly_first", English.value: "Monthly (on the first day)" -->
+    <string name="lbl_reminder_when_monthly_first" tools:ignore="TypographyEllipsis">Bulanan (di hari pertama)</string>
+    <!-- Key: "lbl_reminder_when_monthly_last", English.value: "Monthly (on the last day)" -->
+    <string name="lbl_reminder_when_monthly_last" tools:ignore="TypographyEllipsis">Bulanan (pada hari terakhir)</string>
+    <!-- Key: "lbl_reminder_when_never", English.value: "Never" -->
+    <string name="lbl_reminder_when_never" tools:ignore="TypographyEllipsis">Tidak pernah</string>
+
+    <!-- Key: "lbl_details", English.value: "Details" -->
+    <string name="lbl_details">Detail</string>
+
+    <!-- Key: "title_activity_event_selection", English.value: "Select an event:" -->
+    <string name="title_activity_event_selection">Pilih acara:</string>
+    <!-- Key: "widget1_label", English.value: "1- General widget" -->
+    <string name="widget1_label">1- Widget umum</string>
+    <!-- Key: "widget2_label", English.value: "2- General widget" -->
+    <string name="widget2_label">2- Widget umum</string>
+    <!-- Key: "widget3_label", English.value: "3- 1x1 widget" -->
+    <string name="widget3_label" tools:ignore="TypographyDashes">3- 1x1 widget</string>
+    <!-- Key: "widget4_label", English.value: "4- 1x1 widget" -->
+    <string name="widget4_label" tools:ignore="TypographyDashes">4- widget 1x1</string>
+
+    <!-- Key: "lbl_event_ended_on", English.value: "Ended on:" -->
+    <string name="lbl_event_ended_on">Berakhir pada:</string>
+
+    <!-- Key: "lbl_bg_work_notif_title", English.value: "Background work notification" -->
+    <string name="lbl_bg_work_notif_title">Pemberitahuan kerja latar belakang</string>
+    <!-- Key: "lbl_bg_work_notif_msg_part01", English.value: "There was a change in Android Oreo and every background service has to show its notification now." -->
+    <string name="lbl_bg_work_notif_msg_part01">Ada perubahan di Android Oreo dan setiap layanan latar belakang harus menampilkan pemberitahuannya sekarang.</string>
+    <!-- Key: "lbl_bg_work_notif_msg_part02", English.value: "Our app needs to monitor screen on/off state in background to work reliably and with low battery footprint. This monitoring consumes virtually no battery but we still have to show a fixed notification. Otherwise system will kill our app." -->
+    <string name="lbl_bg_work_notif_msg_part02">Aplikasi kami perlu memantau status hidup /mati layar di latar belakang agar dapat bekerja dengan andal dan dengan jejak baterai yang rendah. Pemantauan ini hampir tidak menggunakan baterai tetapi kami masih harus menampilkan pemberitahuan tetap. Jika tidak, sistem akan mematikan aplikasi kita.</string>
+    <!-- Key: "lbl_bg_work_notif_msg_part03", English.value: "Fortunately this notification can be turned off in notification settings." -->
+    <string name="lbl_bg_work_notif_msg_part03">Untungnya notifikasi ini bisa dimatikan di setting notifikasi.</string>
+    <!-- Key: "lbl_bg_work_notif_msg_part04", English.value: "Tap on [Notification settings] button bellow and you will be redirected to notification settings screen. Uncheck category notification called [Widget update service] to hide this notification." -->
+    <string name="lbl_bg_work_notif_msg_part04">Ketuk tombol [Pengaturan Notifikasi] di bawah dan Anda akan diarahkan ke layar pengaturan notifikasi. Hapus centang pemberitahuan kategori yang disebut [Layanan pembaruan widget] untuk menyembunyikan pemberitahuan ini.</string>
+
+    <!-- Key: "answer_close_caps", English.value: "CLOSE" -->
+    <string name="answer_close_caps">MENUTUP</string>
+    <!-- Key: "answer_notif_settings_caps", English.value: "NOTIFICATION SETTINGS" -->
+    <string name="answer_notif_settings_caps">PENGATURAN PEMBERITAHUAN</string>
+    <!-- Key: "lbl_warning", English.value: "Warning" -->
+    <string name="lbl_warning">Peringatan</string>
+    <!-- Key: "lbl_changes_done", English.value: "Changes done" -->
+    <string name="lbl_changes_done">Perubahan selesai</string>
+
+    <!-- Key: "lbl_widget_update_selection_title", English.value: "Is the widget not updating?" -->
+    <string name="lbl_widget_update_selection_title">Apakah widget tidak diperbarui?</string>
+    <!-- Key: "lbl_widget_update_selection_msg_part01", English.value: "Some divergence in updating the widget may eventually occur, but this divergence is usually less than 1 minute. If the counter value is more than 1 minute apart, this may help you." -->
+    <string name="lbl_widget_update_selection_msg_part01">Beberapa perbedaan dalam memperbarui widget pada akhirnya dapat terjadi, tetapi perbedaan ini biasanya kurang dari 1 menit. Jika nilai penghitung terpisah lebih dari 1 menit, ini dapat membantu Anda.</string>
+    <!-- Key: "lbl_widget_update_selection_msg_part02", English.value: "This app can use 2 different technologies to update widgets on your home screen." -->
+    <string name="lbl_widget_update_selection_msg_part02">Aplikasi ini dapat menggunakan 2 teknologi berbeda untuk memperbarui widget di layar beranda Anda.</string>
+    <!-- Key: "lbl_widget_update_selection_msg_part03", English.value: "If the current technology is not periodically updating the widgets properly, change the selection below." -->
+    <string name="lbl_widget_update_selection_msg_part03">Jika teknologi saat ini tidak memperbarui widget dengan benar secara berkala, ubah pilihan di bawah.</string>
+    <!-- Key: "lbl_widget_update_selection_msg_part04", English.value: "undefined" -->
+    <string name="lbl_widget_update_selection_msg_part04">Jika masih tidak berfungsi (biasanya perangkat Samsung yang menjalankan Android 11), lihat apakah perangkat Anda terdaftar sebagai perangkat yang mematikan aplikasi di latar belakang dan lihat apa yang bisa dilakukan. Silakan akses: <a href="https://dontkillmyapp.com/">https://dontkillmyapp.com/</a></string>
+    <!-- Key: "lbl_widget_update_selection_msg_part05", English.value: "If you still need some help, send us an email to:" -->
+    <string name="lbl_widget_update_selection_msg_part05">Jika Anda masih membutuhkan bantuan, kirimkan email kepada kami ke:</string>
+    <!-- Key: "lbl_widget_update_selection_msg_part06_notice", English.value: "This option will show a fixed notification on your Android. Tap this notification when or if it appears to get more details to remove it." -->
+    <string name="lbl_widget_update_selection_msg_part06_notice">Opsi ini akan menampilkan notifikasi tetap di Android Anda. Ketuk pemberitahuan ini ketika atau jika muncul untuk mendapatkan detail lebih lanjut untuk menghapusnya.</string>
+
+    <!-- Key: "lbl_widget_update_silent_mode", English.value: "Silent mode (default)" -->
+    <string name="lbl_widget_update_silent_mode">Mode senyap (default)</string>
+    <!-- Key: "lbl_widget_update_bg_svc_mode", English.value: "Background service" -->
+    <string name="lbl_widget_update_bg_svc_mode">Layanan latar belakang</string>
+
+    <!-- Key: "lbl_bg_svc_notification_title", English.value: "Widget update service is running" -->
+    <string name="lbl_bg_svc_notification_title">Layanan pembaruan widget sedang berjalan</string>
+    <!-- Key: "lbl_bg_svc_notification_body", English.value: "Tap here to get more info" -->
+    <string name="lbl_bg_svc_notification_body">Ketuk di sini untuk mendapatkan info lebih lanjut</string>
+
+    <!-- Key: "title_activity_widget_update_selection", English.value: "Widget update" -->
+    <string name="title_activity_widget_update_selection">Pembaruan widget</string>
+    <!-- Key: "title_activity_widget_bg_work_notice", English.value: "Background service" -->
+    <string name="title_activity_widget_bg_work_notice">Layanan latar belakang</string>
+
+    <!-- Key: "lbl_use_dark_mode", English.value: "Use the dark mode" -->
+    <string name="lbl_use_dark_mode">Gunakan mode gelap</string>
+
+    <!-- Key: "pref_daily_notification_alarm", English.value: "Show notification at (hour)" -->
+    <string name="pref_daily_notification_alarm">Tampilkan pemberitahuan pada (jam)</string>
+    <!-- Key: "pref_show_daily_notifications", English.value: "Show notifications" -->
+    <string name="pref_show_daily_notifications">Tampilkan pemberitahuan</string>
+
+    <!-- Key: "lbl_widget_on_home_screen", English.value: "How to add a widget on my home screen?" -->
+    <string name="lbl_widget_on_home_screen">Bagaimana cara menambahkan widget di layar beranda saya?</string>
+    <!-- Key: "dialog_title_widget_on_home_screen", English.value: "Widget on my home screen" -->
+    <string name="dialog_title_widget_on_home_screen">Widget di layar beranda saya</string>
+    <!-- Key: "dialog_msg_widget_on_home_screen", English.value: "From your Home screen, touch and hold an empty area, and then tap Widgets. Touch and hold CDT widget, and then drag it to the desired location." -->
+    <string name="dialog_msg_widget_on_home_screen">Dari layar Beranda Anda, sentuh dan tahan area kosong, lalu ketuk Widget. Sentuh dan tahan widget CDT, lalu seret ke lokasi yang diinginkan.</string>
+
+    <!-- Key: "title_activity_change_theme", English.value: "Change theme" -->
+    <string name="title_activity_change_theme">Ubah tema</string>
+
+    <!-- Key: "app_update_msg_almost_finished", English.value: "Update almost finished!" -->
+    <string name="app_update_msg_almost_finished">Pembaruan hampir selesai!</string>
+    <!-- Key: "app_update_msg_almost_finished_button", English.value: "Restart" -->
+    <string name="app_update_msg_almost_finished_button">Mengulang kembali</string>
+
+    <!-- ############################### GET PRO PACK ############################### -->
+
+    <!-- Key: "title_get_pro_pack", English.value: "Get PRO pack" -->
+    <string name="title_get_pro_pack">Dapatkan paket PRO</string>
+    <!-- Key: "lbl01gpp", English.value: "Hi again," -->
+    <string name="lbl01gpp">Halo lagi,</string>
+    <!-- Key: "lbl02gpp", English.value: "Enable all app features by getting the PRO pack!" -->
+    <string name="lbl02gpp">Aktifkan semua fitur aplikasi dengan mendapatkan paket PRO!</string>
+    <!-- Key: "lbl03gpp", English.value: "⭐ PRO features:" -->
+    <string name="lbl03gpp">⭐ fitur PRO:</string>
+    <!-- Key: "lbl06gpp", English.value: "Follow up as many events as you want" -->
+    <string name="lbl06gpp">Tindak lanjuti acara sebanyak yang Anda inginkan</string>
+    <!-- Key: "lbl08gpp", English.value: "Edit past events" -->
+    <string name="lbl08gpp">Edit acara yang lalu</string>
+    <!-- Key: "lbl10gpp", English.value: "Backup and restore your events" -->
+    <string name="lbl10gpp">Cadangkan dan pulihkan acara Anda</string>
+    <!-- Key: "lbl12gpp", English.value: "Use the dark mode" -->
+    <string name="lbl12gpp">Gunakan mode gelap</string>
+    <!-- Key: "lbl14gpp", English.value: "Get individual widgets (1x1)" -->
+    <string name="lbl14gpp">Dapatkan widget individu (1x1)</string>
+
+    <!-- Key: "lbl01gpp_faq", English.value: "FAQ" -->
+    <string name="lbl01gpp_faq">FAQ</string>
+    <!-- Key: "lbl02gpp_faq", English.value: "Is this one time payment?" -->
+    <string name="lbl02gpp_faq">Apakah ini pembayaran satu kali?</string>
+    <!-- Key: "lbl03gpp_faq", English.value: "Yes, you only pay once and you will also have access to every PRO feature that will be added in the future." -->
+    <string name="lbl03gpp_faq">Ya, Anda hanya membayar sekali dan Anda juga akan memiliki akses ke setiap fitur PRO yang akan ditambahkan di masa mendatang.</string>
+    <!-- Key: "lbl04gpp_faq", English.value: "Will it still work if I change the device?" -->
+    <string name="lbl04gpp_faq">Apakah masih akan berfungsi jika saya mengganti perangkat?</string>
+    <!-- Key: "lbl05gpp_faq", English.value: "Yes, this payment is tied to yur Google account, so every device that is logged in to the same account will have access PRO features." -->
+    <string name="lbl05gpp_faq">Ya, pembayaran ini terkait dengan akun Google Anda, jadi setiap perangkat yang masuk ke akun yang sama akan memiliki akses fitur PRO.</string>
+
+    <!-- ############################### LVL ############################### -->
+
+    <!-- Key: "lvl_check_license", English.value: "Check license" -->
+    <string name="lvl_check_license">Periksa lisensi</string>
+    <!-- Key: "lvl_checking_license", English.value: "Checking license..." -->
+    <string name="lvl_checking_license" tools:ignore="TypographyEllipsis">Memeriksa lisensi ...</string>
+    <!-- Key: "lvl_user_access_denied", English.value: "User access denied." -->
+    <string name="lvl_user_access_denied">Akses pengguna ditolak.</string>
+    <!-- Key: "lvl_user_access_allowed", English.value: "User access allowed." -->
+    <string name="lvl_user_access_allowed">Akses pengguna diizinkan.</string>
+    <!-- Key: "lvl_application_error", English.value: "Application error: %1$d" -->
+    <string name="lvl_application_error">Kesalahan aplikasi: %1$d</string>
+
+    <!-- Key: "lvl_unlicensed_dialog_title", English.value: "Application not licensed" -->
+    <string name="lvl_unlicensed_dialog_title">Aplikasi tidak berlisensi</string>
+    <!-- Key: "lvl_unlicensed_dialog_body", English.value: "This application is not licensed." -->
+    <string name="lvl_unlicensed_dialog_body">Aplikasi ini tidak berlisensi.</string>
+    <!-- Key: "lvl_unlicensed_dialog_retry_body", English.value: "Unable to validate license. Check to see if a network connection is available." -->
+    <string name="lvl_unlicensed_dialog_retry_body">Tidak dapat memvalidasi lisensi. Periksa untuk melihat apakah koneksi jaringan tersedia.</string>
+    <!-- Key: "lvl_restore_access_button", English.value: "Restore Access" -->
+    <string name="lvl_restore_access_button">Pulihkan Akses</string>
+    <!-- Key: "lvl_btn_retry", English.value: "Retry" -->
+    <string name="lvl_btn_retry">Mencoba kembali</string>
+    <!-- Key: "lvl_btn_quit", English.value: "Exit" -->
+    <string name="lvl_btn_quit">Keluar</string>
+
+    <!-- ############################### MESSAGES ############################### -->
+
+    <!-- Key: "PLAY_SERVICES_NOT_SUPPORTED", English.value: "Your device does not support notification functionality." -->
+    <string name="PLAY_SERVICES_NOT_SUPPORTED">Perangkat Anda tidak mendukung fungsionalitas notifikasi.</string>
+    <!-- Key: "APP_WITHOUT_PERMISSIONS", English.value: "No permission to execute some operation." -->
+    <string name="APP_WITHOUT_PERMISSIONS">Tidak ada izin untuk menjalankan beberapa operasi.</string>
+    <!-- Key: "INTERNET_CONNECTION_PROBLEM", English.value: "Internet connection issues, please, check the connection." -->
+    <string name="INTERNET_CONNECTION_PROBLEM">Masalah koneksi internet, silakan periksa koneksi.</string>
+    <!-- Key: "INTERNET_CONNECTION_NOT_AVAILABLE", English.value: "Internet connection not available." -->
+    <string name="INTERNET_CONNECTION_NOT_AVAILABLE">Koneksi internet tidak tersedia.</string>
+
+    <!-- Key: "START_DATETIME_ERROR", English.value: "Start date must be greater than end date" -->
+    <string name="START_DATETIME_ERROR">Tanggal mulai harus lebih besar dari tanggal akhir</string>
+    <!-- Key: "FINISH_DATETIME_ERROR", English.value: "End date must be greater than now" -->
+    <string name="FINISH_DATETIME_ERROR">Tanggal akhir harus lebih besar dari sekarang</string>
+    <!-- Key: "RESET_ALL_DAYS_QUESTION", English.value: "Do you really want to reset all app data?" -->
+    <string name="RESET_ALL_DAYS_QUESTION">Apakah Anda benar-benar ingin mengatur ulang semua data aplikasi?</string>
+    <!-- Key: "ALL_DATA_RESET", English.value: "All data reset successfully." -->
+    <string name="ALL_DATA_RESET">Semua data berhasil disetel ulang.</string>
+    <!-- Key: "PROGRESS_NOTIFICATION_TEXT", English.value: "%1$s days left!" -->
+    <string name="PROGRESS_NOTIFICATION_TEXT">%1$s hari lagi!</string>
+    <!-- Key: "PROGRESS_NOTIFICATION_TEXT_ONE_DAY", English.value: "1 day left!" -->
+    <string name="PROGRESS_NOTIFICATION_TEXT_ONE_DAY">1 hari lagi!</string>
+    <!-- Key: "PROGRESS_NOTIFICATION_TEXT_ZERO_DAYS", English.value: "< 0 days left!" -->
+    <string name="PROGRESS_NOTIFICATION_TEXT_ZERO_DAYS">&lt;0 hari lagi!</string>
+
+    <!-- Key: "PROGRESS_NOTIFICATION_TITLE", English.value: "The days are passing by..." -->
+    <string name="PROGRESS_NOTIFICATION_TITLE" tools:ignore="TypographyEllipsis">Hari-hari berlalu ...</string>
+
+    <!-- Key: "THIS_FIELD_IS_MANDATORY", English.value: "This field is mandatory." -->
+    <string name="THIS_FIELD_IS_MANDATORY">Bidang ini wajib diisi.</string>
+    <!-- Key: "DELETE_EVENT_MESSAGE", English.value: "Are you sure to delete this event? This action cannot be undone!" -->
+    <string name="DELETE_EVENT_MESSAGE">Anda yakin ingin menghapus acara ini? Tindakan ini tidak bisa dibatalkan!</string>
+    <!-- Key: "DELETE_EVENT_EXTRA_MESSAGE", English.value: "Are you really sure?" -->
+    <string name="DELETE_EVENT_EXTRA_MESSAGE">Apakah kamu benar-benar yakin?</string>
+    <!-- Key: "DELETE_EVENT_EXTRA_CHECK_REQUIRED", English.value: "You need to mark the checkbox to continue." -->
+    <string name="DELETE_EVENT_EXTRA_CHECK_REQUIRED">Anda perlu menandai kotak centang untuk melanjutkan.</string>
+    <!-- Key: "DELETE_EVENT_SUCCESSFULLY", English.value: "Event deleted successfully" -->
+    <string name="DELETE_EVENT_SUCCESSFULLY">Acara berhasil dihapus</string>
+    <!-- Key: "REGISTER_STORED_IN_HISTORY", English.value: "Record stored in history" -->
+    <string name="REGISTER_STORED_IN_HISTORY">Rekam disimpan dalam sejarah</string>
+
+    <!-- Key: "NEW_VERSION_TITLE", English.value: "New version" -->
+    <string name="NEW_VERSION_TITLE">Versi baru</string>
+    <!-- Key: "NEW_VERSION_1_0", English.value: "Hi!! 😃 A new widget is available! From a Home screen, touch and hold an empty area, and then tap Widgets. Touch and hold CDT widget, and then drag it to your desired location. 🙌" -->
+    <string name="NEW_VERSION_1_0">Hai!! 😃 Widget baru tersedia! Dari layar Beranda, sentuh dan tahan area kosong, lalu ketuk Widget. Sentuh dan tahan widget CDT, lalu seret ke lokasi yang Anda inginkan. 🙌</string>
+
+    <!-- Key: "BACKUP_SUCCESS", English.value: "Backup completed successfully!" -->
+    <string name="BACKUP_SUCCESS">Pencadangan berhasil diselesaikan!</string>
+    <!-- Key: "BACKUP_FAIL", English.value: "Backup failed" -->
+    <string name="BACKUP_FAIL">Pencadangan gagal</string>
+    <!-- Key: "RESTORE_SUCCESS", English.value: "Restore completed successfully!" -->
+    <string name="RESTORE_SUCCESS">Pemulihan selesai dengan sukses!</string>
+    <!-- Key: "RESTORE_FAIL", English.value: "Restore failed. Performing rollback..." -->
+    <string name="RESTORE_FAIL" tools:ignore="TypographyEllipsis">Pemulihan gagal. Melakukan rollback ...</string>
+    <!-- Key: "ROLLBACK_SUCCESS", English.value: "Rollback completed successfully!" -->
+    <string name="ROLLBACK_SUCCESS">Rollback berhasil diselesaikan!</string>
+    <!-- Key: "ROLLBACK_FAIL", English.value: "Rollback failed" -->
+    <string name="ROLLBACK_FAIL">Rollback gagal</string>
+    <!-- Key: "INVALID_BK_FILE", English.value: "The chosen file is invalid or corrupted." -->
+    <string name="INVALID_BK_FILE">File yang dipilih tidak valid atau rusak.</string>
+
+    <!-- Key: "MILESTONE_NOTIFICATION_CONTENT", English.value: "%1$s hours left for this event to arrive.\nEnd date: %2$s" -->
+    <string name="MILESTONE_NOTIFICATION_CONTENT">%1$s jam tersisa sebelum acara ini tiba. \NTanggal akhir: %2$s</string>
+    <!-- Key: "MILESTONE_NOTIFICATION_CONTENT_PAST_EVENT", English.value: "This event is over!\nEnd date: %1$s" -->
+    <string name="MILESTONE_NOTIFICATION_CONTENT_PAST_EVENT">Acara ini sudah berakhir! \NTanggal akhir: %1$s</string>
+
+    <!-- Key: "ONLY_PRO_USERS_CAN_EDIT_PAST_EVENTS", English.value: "Only PRO users can edit past events. Get PRO pack." -->
+    <string name="ONLY_PRO_USERS_CAN_EDIT_PAST_EVENTS">Hanya pengguna PRO yang dapat mengedit acara sebelumnya. Dapatkan paket PRO.</string>
+
+    <!--  ############################### PURCHASE ############################### -->
+
+    <!-- Key: "hw_couldnt_load_products", English.value: "Couldn\'t load the products. Please, check your internet connection." -->
+    <string name="hw_couldnt_load_products">Tidak dapat memuat produk. Tolong, periksa koneksi internet Anda.</string>
+    <!-- Key: "hw_order_cancelled", English.value: "This order has been canceled!" -->
+    <string name="hw_order_cancelled">Pesanan ini telah dibatalkan!</string>
+    <!-- Key: "hw_payment_successful_but_sign_failed", English.value: "Payment successful, but sign failed." -->
+    <string name="hw_payment_successful_but_sign_failed">Pembayaran berhasil, tetapi tanda gagal.</string>
+    <!-- Key: "hw_payment_failed", English.value: "Payment failed." -->
+    <string name="hw_payment_failed">Pembayaran gagal.</string>
+    <!-- Key: "hw_loading_product", English.value: "Loading..." -->
+    <string name="hw_loading_product" tools:ignore="TypographyEllipsis">Memuat...</string>
+
+    <!-- ############################### RATE DIALOG ############################### -->
+
+    <!-- Key: "title_rate_dialog_message", English.value: "Rate CDT" -->
+    <string name="title_rate_dialog_message">Beri nilai CDT</string>
+    <!-- Key: "lbl01_rate", English.value: "If CDT is helping you somehow, please take a moment to rate it." -->
+    <string name="lbl01_rate">Jika CDT membantu Anda, luangkan waktu sejenak untuk menilai.</string>
+    <!-- Key: "lbl02_rate", English.value: "Every comment and review counts." -->
+    <string name="lbl02_rate">Setiap komentar dan ulasan penting.</string>
+    <!-- Key: "lbl03_rate", English.value: "Thanks for your support!" -->
+    <string name="lbl03_rate">Terima kasih atas dukunganmu!</string>
+    <!-- Key: "lbl04_rate", English.value: "Please select the number of stars to proceed." -->
+    <string name="lbl04_rate">Pilih jumlah bintang untuk melanjutkan.</string>
+    <!-- Key: "lbl05_rate", English.value: "Thanks! Rate us on PlayStore." -->
+    <string name="lbl05_rate">Terima kasih! Beri kami nilai di PlayStore.</string>
+    <!-- Key: "lbl06_rate", English.value: "Thanks!" -->
+    <string name="lbl06_rate">Terima kasih!</string>
+    <!-- Key: "lbl07_rate", English.value: "Please rate us on PlayStore." -->
+    <string name="lbl07_rate">Silakan menilai kami di PlayStore.</string>
+
+    <!-- ############################### WELCOME DIALOG ############################### -->
+
+    <!-- Key: "title_welcome_dialog_message", English.value: "Welcome message" -->
+    <string name="title_welcome_dialog_message">Pesan selamat datang</string>
+    <!-- Key: "lbl01", English.value: "Hi," -->
+    <string name="lbl01">Hai,</string>
+    <!-- Key: "lbl02", English.value: "Welcome to CDT!" -->
+    <string name="lbl02">Selamat datang di CDT!</string>
+    <!-- Key: "lbl03", English.value: "With this app you can follow the most important events in your life. Want to know how many days are left for any event? Use the day countdown to help you:" -->
+    <string name="lbl03">Dengan aplikasi ini Anda dapat mengikuti acara terpenting dalam hidup Anda. Ingin tahu berapa hari tersisa untuk acara apa pun? Gunakan hitungan mundur hari untuk membantu Anda:</string>
+    <!-- Key: "lbl06", English.value: "🎂 How many days until your birthday?" -->
+    <string name="lbl06">🎂 Berapa hari sampai hari ulang tahunmu?</string>
+    <!-- Key: "lbl08", English.value: "❤ How many days until your dating anniversary?" -->
+    <string name="lbl08">❤ Berapa hari sampai hari jadi kencan Anda?</string>
+    <!-- Key: "lbl10", English.value: "📊 How many days until your work meeting?" -->
+    <string name="lbl10">📊 Berapa hari sampai rapat kerja Anda?</string>
+    <!-- Key: "lbl12", English.value: "👨‍👩‍👧‍👦 How many days until your family reunion?" -->
+    <string name="lbl12">👨‍👩‍👧‍👦 Berapa hari sampai reuni keluarga Anda?</string>
+
+    <!-- Key: "lbl17", English.value: "We hope to help you never forget the most important dates!" -->
+    <string name="lbl17">Kami berharap dapat membantu Anda tidak pernah melupakan tanggal terpenting!</string>
+    <!-- Key: "lbl18", English.value: "Let\'s start counting! ⏰" -->
+    <string name="lbl18">Mari mulai menghitung! ⏰</string>
+
+    <!-- ############################### WIDGET ############################### -->
+
+    <!-- Key: "widget_title", English.value: "CDT: Countdown timer" -->
+    <string name="widget_title">CDT: Penghitung waktu mundur</string>
+</resources>

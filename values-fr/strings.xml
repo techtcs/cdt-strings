@@ -1,0 +1,453 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Key: "current_lang", English.value: "EN" -->
+    <string name="current_lang">FR</string>
+
+    <!-- Key: "main_title", English.value: "Days counter (Countdown timer)" -->
+    <string name="main_title">Compteur de jours (compte à rebours)</string>
+
+    <!-- Key: "all_rights_reserved", English.value: "All rights reserved." -->
+    <string name="all_rights_reserved">Tous droits réservés.</string>
+    <!-- Key: "faq", English.value: "FAQ" -->
+    <string name="faq">FAQ</string>
+    <!-- Key: "rate", English.value: "Rate this app" -->
+    <string name="rate">Évaluer cette application</string>
+    <!-- Key: "contact", English.value: "Contact us" -->
+    <string name="contact">Contactez-nous</string>
+    <!-- Key: "help_questions", English.value: "Questions? Do you need some help?" -->
+    <string name="help_questions">Des questions? Avez-vous besoin d\'aide?</string>
+
+    <!-- Key: "dialog_title_easter_egg", English.value: "CDT: Hi!!" -->
+    <string name="dialog_title_easter_egg">CDT: Salut!!</string>
+    <!-- Key: "dialog_msg_easter_egg", English.value: "Thanks for using CDT :)" -->
+    <string name="dialog_msg_easter_egg">Merci d\'utiliser CDT :)</string>
+    <!-- Key: "lbl_version", English.value: "Version %1$s" -->
+    <string name="lbl_version">Version %1$s</string>
+
+
+    <!-- Key: "title_activity_help", English.value: "Help" -->
+    <string name="title_activity_help">Aide</string>
+    <!-- Key: "title_activity_about", English.value: "About" -->
+    <string name="title_activity_about">À propos</string>
+
+    <!-- Key: "title_activity_settings", English.value: "Settings" -->
+    <string name="title_activity_settings">Paramètres</string>
+
+    <!-- Key: "title_activity_backup", English.value: "BACKUP / RESTORE" -->
+    <string name="title_activity_backup">SAUVEGARDE / RESTAURATION</string>
+    <!-- Key: "btn_backup", English.value: "Backup" -->
+    <string name="btn_backup">Sauvegarde</string>
+    <!-- Key: "btn_restore", English.value: "Restore" -->
+    <string name="btn_restore">Restaurer</string>
+    <!-- Key: "choose_bk_file", English.value: "Choose a backup file" -->
+    <string name="choose_bk_file">Choisissez un fichier de sauvegarde</string>
+    <!-- Key: "save_bk_file", English.value: "Save backup file" -->
+    <string name="save_bk_file">Enregistrer le fichier de sauvegarde</string>
+
+    <!-- Key: "action_help", English.value: "Help" -->
+    <string name="action_help">Aide</string>
+    <!-- Key: "get_pro_version", English.value: "Get PRO version" -->
+    <string name="get_pro_version">Obtenir la version PRO</string>
+
+    <!-- Key: "chooser_title_send_by", English.value: "Send by" -->
+    <string name="chooser_title_send_by">Envoyer par</string>
+
+    <!-- Key: "action_edit", English.value: "Edit" -->
+    <string name="action_edit">Modifier</string>
+    <!-- Key: "get_pro", English.value: "GET PRO" -->
+    <string name="get_pro">OBTENIR PRO</string>
+    <!-- Key: "get_pro_price", English.value: "GET PRO ( %1$s )" -->
+    <string name="get_pro_price">OBTENIR PRO (%1$s)</string>
+    <!-- Key: "snackbar_details_and_delete_message", English.value: "Click for details OR swipe to delete." -->
+    <string name="snackbar_details_and_delete_message">Cliquez pour plus de détails OU faites glisser pour supprimer.</string>
+    <!-- Key: "title_notification_pro_pack", English.value: "CDT: Update report" -->
+    <string name="title_notification_pro_pack">CDT: rapport de mise à jour</string>
+    <!-- Key: "delete_event_title", English.value: "Delete event" -->
+    <string name="delete_event_title">Supprimer l\'événement</string>
+    <!-- Key: "pro_pack_activated", English.value: "Thanks! :) PRO Pack Activated!" -->
+    <string name="pro_pack_activated">Merci! :) Pack PRO activé!</string>
+
+    <!-- Key: "pro_feature_locked", English.value: "This feature is available only in PRO pack. Do you want to get it?" -->
+    <string name="pro_feature_locked">Cette fonctionnalité n\'est disponible que dans le pack PRO. Voulez-vous l\'obtenir?</string>
+    <!-- Key: "pro_feature_locked_max_events", English.value: "Only %1$s events can be active simultaneously in the free version. Create as many events as you like and get more features with the PRO pack." -->
+    <string name="pro_feature_locked_max_events">Seuls les événements %1$s peuvent être actifs simultanément dans la version gratuite. Créez autant d\'événements que vous le souhaitez et obtenez plus de fonctionnalités avec le pack PRO.</string>
+    <!-- Key: "btn_know_more", English.value: "Know more" -->
+    <string name="btn_know_more">En savoir plus</string>
+    <!-- Key: "lbl_pro_ad", English.value: "Follow up as many events as you like with the PRO pack!" -->
+    <string name="lbl_pro_ad">Suivez autant d\'événements que vous le souhaitez avec le pack PRO!</string>
+
+    <!-- Key: "ORDER", English.value: "Sort order:" -->
+    <string name="ORDER">Ordre de tri:</string>
+
+    <!-- Key: "share", English.value: "SHARE" -->
+    <string name="share">PARTAGER</string>
+    <!-- Key: "action_settings", English.value: "Settings" -->
+    <string name="action_settings">Paramètres</string>
+    <!-- Key: "share_app_message", English.value: "Do you want to share this app with your friends?" -->
+    <string name="share_app_message">Voulez-vous partager cette application avec vos amis?</string>
+    <!-- Key: "share_app_extra_text", English.value: "Hi, I\'m using CDT to remember my special events! Download the app and check it out: https://play.google.com/store/apps/details?id=tech.tcsolution.cdt" -->
+    <string name="share_app_extra_text">Salut, j\'utilise CDT pour me souvenir de mes événements spéciaux! Téléchargez l\'application et vérifiez-la: https://play.google.com/store/apps/details?id=tech.tcsolution.cdt</string>
+
+    <!-- Key: "answer_get", English.value: "Get PRO" -->
+    <string name="answer_get">Obtenez PRO</string>
+    <!-- Key: "answer_cancel", English.value: "Cancel" -->
+    <string name="answer_cancel">Annuler</string>
+    <!-- Key: "answer_save", English.value: "Save" -->
+    <string name="answer_save">Sauver</string>
+    <!-- Key: "answer_yes_caps", English.value: "YES" -->
+    <string name="answer_yes_caps">OUI</string>
+    <!-- Key: "answer_cancel_caps", English.value: "CANCEL" -->
+    <string name="answer_cancel_caps" tools:ignore="ButtonCase">ANNULER</string>
+    <!-- Key: "answer_later", English.value: "Later" -->
+    <string name="answer_later">Plus tard</string>
+
+    <!-- Key: "pref_delete_confirmation", English.value: "Extra deletion confirmation" -->
+    <string name="pref_delete_confirmation">Confirmation de suppression supplémentaire</string>
+    <!-- Key: "pref_delete_confirmation_summary", English.value: "Mark a checkbox before to delete an event" -->
+    <string name="pref_delete_confirmation_summary">Cochez une case avant de supprimer un événement</string>
+    <!-- Key: "pref_reset_all_button", English.value: "RESET DATA" -->
+    <string name="pref_reset_all_button">RÉINITIALISER LES DONNÉES</string>
+    <!-- Key: "pref_reset_all_button_summary", English.value: "This will reset all app data" -->
+    <string name="pref_reset_all_button_summary">Cela réinitialisera toutes les données de l\'application</string>
+    <!-- Key: "load", English.value: "Loading ... This may take a while if the device is restarting" -->
+    <string name="load" tools:ignore="TypographyEllipsis">Chargement... Cela peut prendre un certain temps si l\'appareil redémarre</string>
+    <!-- Key: "pref_heading_general", English.value: "‣ GENERAL" -->
+    <string name="pref_heading_general">‣ GÉNÉRAL</string>
+    <!-- Key: "pref_heading_pro", English.value: "★ PRO" -->
+    <string name="pref_heading_pro">★ PRO</string>
+    <!-- Key: "lbl_active_events", English.value: "Active events" -->
+    <string name="lbl_active_events">Événements actifs</string>
+    <!-- Key: "lbl_past_events", English.value: "Past events" -->
+    <string name="lbl_past_events">Événements passés</string>
+    <!-- Key: "turn_on_notifications_message", English.value: "Notifications are important for a better user experience. Would you like to turn them on?" -->
+    <string name="turn_on_notifications_message">Les notifications sont importantes pour une meilleure expérience utilisateur. Souhaitez-vous les activer?</string>
+    <!-- Key: "turn_on_notifications_title", English.value: "Turn on notifications" -->
+    <string name="turn_on_notifications_title">Activer les notifications</string>
+    <!-- Key: "lbl_title", English.value: "Title:" -->
+    <string name="lbl_title">Titre:</string>
+    <!-- Key: "lbl_event_hint", English.value: "Event..." -->
+    <string name="lbl_event_hint" tools:ignore="TypographyEllipsis">Événement...</string>
+    <!-- Key: "lbl_description_hint", English.value: "..." -->
+    <string name="lbl_description_hint" tools:ignore="TypographyEllipsis">...</string>
+    <!-- Key: "lbl_start_title", English.value: "Countdown timer" -->
+    <string name="lbl_start_title">Compte à rebours</string>
+    <!-- Key: "lbl_category", English.value: "Category:" -->
+    <string name="lbl_category">Catégorie:</string>
+    <!-- Key: "lbl_description", English.value: "Description:" -->
+    <string name="lbl_description">Description:</string>
+    <!-- Key: "lbl_start_date", English.value: "Start date:" -->
+    <string name="lbl_start_date">Date de début:</string>
+    <!-- Key: "lbl_finish_date", English.value: "Finish date:" -->
+    <string name="lbl_finish_date">Date de fin:</string>
+    <!-- Key: "lbl_reminder_when", English.value: "Reminder:" -->
+    <string name="lbl_reminder_when">Rappel:</string>
+    <!-- Key: "lbl_last_reminder_before_x_hours", English.value: "Last reminder" -->
+    <string name="lbl_last_reminder_before_x_hours">Dernier rappel:</string>
+    <!-- Key: "lbl_last_reminder_before_x_hours_sub", English.value: "(Notify X hours before)" -->
+    <string name="lbl_last_reminder_before_x_hours_sub">(Avertir X heures avant)</string>
+    <!-- Key: "start", English.value: "START" -->
+    <string name="start">DÉMARRER</string>
+
+    <!-- Key: "lbl_days_zero", English.value: "0 days" -->
+    <string name="lbl_days_zero">0 jours</string>
+    <plurals name="lbl_days">
+        <!-- Key: "lbl_days.one", English.value: "%1$s day" -->
+        <item quantity="one">%1$s jour</item>
+        <!-- Key: "lbl_days.other", English.value: "%1$s days" -->
+        <item quantity="other">%1$s jours</item>
+    </plurals>
+    <!-- Key: "lbl_reminder_when_daily", English.value: "Daily" -->
+    <string name="lbl_reminder_when_daily" tools:ignore="TypographyEllipsis">Quotidien</string>
+    <!-- Key: "lbl_reminder_when_weekly_on_mondays", English.value: "Weekly (on Mondays)" -->
+    <string name="lbl_reminder_when_weekly_on_mondays" tools:ignore="TypographyEllipsis">Hebdomadaire (le lundi)</string>
+    <!-- Key: "lbl_reminder_when_weekly_on_saturdays", English.value: "Weekly (on Saturdays)" -->
+    <string name="lbl_reminder_when_weekly_on_saturdays" tools:ignore="TypographyEllipsis">Hebdomadaire (le samedi)</string>
+    <!-- Key: "lbl_reminder_when_weekly_on_sundays", English.value: "Weekly (on Sundays)" -->
+    <string name="lbl_reminder_when_weekly_on_sundays" tools:ignore="TypographyEllipsis">Hebdomadaire (le dimanche)</string>
+    <!-- Key: "lbl_reminder_when_monthly_first", English.value: "Monthly (on the first day)" -->
+    <string name="lbl_reminder_when_monthly_first" tools:ignore="TypographyEllipsis">Mensuel (le premier jour)</string>
+    <!-- Key: "lbl_reminder_when_monthly_last", English.value: "Monthly (on the last day)" -->
+    <string name="lbl_reminder_when_monthly_last" tools:ignore="TypographyEllipsis">Mensuel (le dernier jour)</string>
+    <!-- Key: "lbl_reminder_when_never", English.value: "Never" -->
+    <string name="lbl_reminder_when_never" tools:ignore="TypographyEllipsis">Jamais</string>
+    <!-- Key: "lbl_details", English.value: "Details" -->
+    <string name="lbl_details">Détails</string>
+    <!-- Key: "title_activity_event_selection", English.value: "Select an event:" -->
+    <string name="title_activity_event_selection">Sélectionnez un événement:</string>
+    <!-- Key: "widget1_label", English.value: "1- General widget" -->
+    <string name="widget1_label">1- Widget général</string>
+    <!-- Key: "widget2_label", English.value: "2- General widget" -->
+    <string name="widget2_label">2- Widget général</string>
+    <!-- Key: "widget3_label", English.value: "3- 1x1 widget" -->
+    <string name="widget3_label" tools:ignore="TypographyDashes">3- widget 1x1</string>
+    <!-- Key: "widget4_label", English.value: "4- 1x1 widget" -->
+    <string name="widget4_label" tools:ignore="TypographyDashes">4- widgets 1x1</string>
+    <!-- Key: "lbl_event_ended_on", English.value: "Ended on:" -->
+    <string name="lbl_event_ended_on">Terminé le:</string>
+
+    <!-- Key: "lbl_bg_work_notif_title", English.value: "Background work notification" -->
+    <string name="lbl_bg_work_notif_title">Notification des travaux en arrière-plan</string>
+    <!-- Key: "lbl_bg_work_notif_msg_part01", English.value: "There was a change in Android Oreo and every background service has to show its notification now." -->
+    <string name="lbl_bg_work_notif_msg_part01">Il y a eu un changement dans Android Oreo et chaque service d\'arrière-plan doit maintenant afficher sa notification.</string>
+    <!-- Key: "lbl_bg_work_notif_msg_part02", English.value: "Our app needs to monitor screen on/off state in background to work reliably and with low battery footprint. This monitoring consumes virtually no battery but we still have to show a fixed notification. Otherwise system will kill our app." -->
+    <string name="lbl_bg_work_notif_msg_part02">Notre application doit surveiller l\'état d\'activation/désactivation de l\'écran en arrière-plan pour fonctionner de manière fiable et avec une faible empreinte de la batterie. Cette surveillance ne consomme pratiquement pas de batterie mais nous devons tout de même afficher une notification fixe. Sinon, le système tuera notre application.</string>
+    <!-- Key: "lbl_bg_work_notif_msg_part03", English.value: "Fortunately this notification can be turned off in notification settings." -->
+    <string name="lbl_bg_work_notif_msg_part03">Heureusement, cette notification peut être désactivée dans les paramètres de notification.</string>
+    <!-- Key: "lbl_bg_work_notif_msg_part04", English.value: "Tap on [Notification settings] button bellow and you will be redirected to notification settings screen. Uncheck category notification called [Widget update service] to hide this notification." -->
+    <string name="lbl_bg_work_notif_msg_part04">Appuyez sur le bouton [Paramètres de notification] ci-dessous et vous serez redirigé vers l\'écran des paramètres de notification. Décochez la notification de catégorie appelée [Service de mise à jour du widget] pour masquer cette notification.</string>
+
+    <!-- Key: "answer_close_caps", English.value: "CLOSE" -->
+    <string name="answer_close_caps">FERMER</string>
+    <!-- Key: "answer_notif_settings_caps", English.value: "NOTIFICATION SETTINGS" -->
+    <string name="answer_notif_settings_caps">PARAMÈTRES DE NOTIFICATION</string>
+    <!-- Key: "lbl_warning", English.value: "Warning" -->
+    <string name="lbl_warning">Avertissement</string>
+    <!-- Key: "lbl_changes_done", English.value: "Changes done" -->
+    <string name="lbl_changes_done">Modifications effectuées</string>
+
+    <!-- Key: "lbl_widget_update_selection_title", English.value: "Is the widget not updating?" -->
+    <string name="lbl_widget_update_selection_title">Le widget ne se met-il pas à jour?</string>
+    <!-- Key: "lbl_widget_update_selection_msg_part01", English.value: "Some divergence in updating the widget may eventually occur, but this divergence is usually less than 1 minute. If the counter value is more than 1 minute apart, this may help you." -->
+    <string name="lbl_widget_update_selection_msg_part01">Une certaine divergence dans la mise à jour du widget peut éventuellement se produire, mais cette divergence est généralement inférieure à 1 minute. Si la valeur du compteur est espacée de plus d\'une minute, cela peut vous aider.</string>
+    <!-- Key: "lbl_widget_update_selection_msg_part02", English.value: "This app can use 2 different technologies to update widgets on your home screen." -->
+    <string name="lbl_widget_update_selection_msg_part02">Cette application peut utiliser 2 technologies différentes pour mettre à jour les widgets sur votre écran d\'accueil.</string>
+    <!-- Key: "lbl_widget_update_selection_msg_part03", English.value: "If the current technology is not periodically updating the widgets properly, change the selection below." -->
+    <string name="lbl_widget_update_selection_msg_part03">Si la technologie actuelle ne met pas régulièrement à jour correctement les widgets, modifiez la sélection ci-dessous.</string>
+    <!-- Key: "lbl_widget_update_selection_msg_part04", English.value: "undefined" -->
+    <string name="lbl_widget_update_selection_msg_part04">Si cela ne fonctionne toujours pas (généralement les appareils Samsung exécutant Android 11), voyez si votre appareil est répertorié comme un appareil qui tue les applications en arrière-plan et voyez ce qui peut être fait. Veuillez accéder: <a href="https://dontkillmyapp.com/">https://dontkillmyapp.com/</a></string>
+    <!-- Key: "lbl_widget_update_selection_msg_part05", English.value: "If you still need some help, send us an email to:" -->
+    <string name="lbl_widget_update_selection_msg_part05">Si vous avez encore besoin d\'aide, envoyez-nous un e-mail à:</string>
+    <!-- Key: "lbl_widget_update_selection_msg_part06_notice", English.value: "This option will show a fixed notification on your Android. Tap this notification when or if it appears to get more details to remove it." -->
+    <string name="lbl_widget_update_selection_msg_part06_notice">Cette option affichera une notification fixe sur votre Android. Appuyez sur cette notification quand ou si elle apparaît pour obtenir plus de détails pour la supprimer.</string>
+
+    <!-- Key: "lbl_widget_update_silent_mode", English.value: "Silent mode (default)" -->
+    <string name="lbl_widget_update_silent_mode">Mode silencieux (par défaut)</string>
+    <!-- Key: "lbl_widget_update_bg_svc_mode", English.value: "Background service" -->
+    <string name="lbl_widget_update_bg_svc_mode">Service de fond</string>
+
+    <!-- Key: "lbl_bg_svc_notification_title", English.value: "Widget update service is running" -->
+    <string name="lbl_bg_svc_notification_title">Le service de mise à jour du widget est en cours d\'exécution</string>
+    <!-- Key: "lbl_bg_svc_notification_body", English.value: "Tap here to get more info" -->
+    <string name="lbl_bg_svc_notification_body">Appuyez ici pour obtenir plus d\'informations</string>
+
+    <!-- Key: "title_activity_widget_update_selection", English.value: "Widget update" -->
+    <string name="title_activity_widget_update_selection">Mise à jour du widget</string>
+    <!-- Key: "title_activity_widget_bg_work_notice", English.value: "Background service" -->
+    <string name="title_activity_widget_bg_work_notice">Service de fond</string>
+
+    <!-- Key: "lbl_use_dark_mode", English.value: "Use the dark mode" -->
+    <string name="lbl_use_dark_mode">Utilisez le mode sombre</string>
+
+    <!-- Key: "pref_daily_notification_alarm", English.value: "Show notification at (hour)" -->
+    <string name="pref_daily_notification_alarm">Afficher la notification à (heure)</string>
+    <!-- Key: "pref_show_daily_notifications", English.value: "Show notifications" -->
+    <string name="pref_show_daily_notifications">Afficher les notifications</string>
+
+    <!-- Key: "lbl_widget_on_home_screen", English.value: "How to add a widget on my home screen?" -->
+    <string name="lbl_widget_on_home_screen">Comment ajouter un widget sur mon écran d\'accueil?</string>
+    <!-- Key: "dialog_title_widget_on_home_screen", English.value: "Widget on my home screen" -->
+    <string name="dialog_title_widget_on_home_screen">Widget sur mon écran d\'accueil</string>
+    <!-- Key: "dialog_msg_widget_on_home_screen", English.value: "From your Home screen, touch and hold an empty area, and then tap Widgets. Touch and hold CDT widget, and then drag it to the desired location." -->
+    <string name="dialog_msg_widget_on_home_screen">Depuis votre écran d\'accueil, appuyez de manière prolongée sur une zone vide, puis appuyez sur Widgets. Appuyez de manière prolongée sur le widget CDT, puis faites-le glisser vers l\'emplacement souhaité.</string>
+
+    <!-- Key: "title_activity_change_theme", English.value: "Change theme" -->
+    <string name="title_activity_change_theme">Change le thème</string>
+
+    <!-- Key: "app_update_msg_almost_finished", English.value: "Update almost finished!" -->
+    <string name="app_update_msg_almost_finished">Mise à jour presque terminée!</string>
+    <!-- Key: "app_update_msg_almost_finished_button", English.value: "Restart" -->
+    <string name="app_update_msg_almost_finished_button">Redémarrage</string>
+
+    <!-- ############################### GET PRO PACK ############################### -->
+
+    <!-- Key: "title_get_pro_pack", English.value: "Get PRO pack" -->
+    <string name="title_get_pro_pack">Obtenez le pack PRO</string>
+    <!-- Key: "lbl01gpp", English.value: "Hi again," -->
+    <string name="lbl01gpp">Salut encore,</string>
+    <!-- Key: "lbl02gpp", English.value: "Enable all app features by getting the PRO pack!" -->
+    <string name="lbl02gpp">Activez toutes les fonctionnalités de l\'application en obtenant le pack PRO!</string>
+    <!-- Key: "lbl03gpp", English.value: "⭐ PRO features:" -->
+    <string name="lbl03gpp">⭐ Caractéristiques PRO:</string>
+    <!-- EN RESOURCE NOT FOUND -->
+    <string name="lbl05gpp" translatable="false">‣</string>
+    <!-- Key: "lbl06gpp", English.value: "Follow up as many events as you want" -->
+    <string name="lbl06gpp">Suivez autant d\'événements que vous le souhaitez</string>
+    <!-- Key: "lbl08gpp", English.value: "Edit past events" -->
+    <string name="lbl08gpp">Modifier les événements passés</string>
+    <!-- Key: "lbl10gpp", English.value: "Backup and restore your events" -->
+    <string name="lbl10gpp">Sauvegardez et restaurez vos événements</string>
+    <!-- Key: "lbl12gpp", English.value: "Use the dark mode" -->
+    <string name="lbl12gpp">Utilisez le mode sombre</string>
+    <!-- Key: "lbl14gpp", English.value: "Get individual widgets (1x1)" -->
+    <string name="lbl14gpp">Obtenir des widgets individuels (1x1) dix</string>
+
+    <!-- Key: "lbl01gpp_faq", English.value: "FAQ" -->
+    <string name="lbl01gpp_faq">FAQ</string>
+    <!-- Key: "lbl02gpp_faq", English.value: "Is this one time payment?" -->
+    <string name="lbl02gpp_faq">S\'agit-il d\'un paiement unique?</string>
+    <!-- Key: "lbl03gpp_faq", English.value: "Yes, you only pay once and you will also have access to every PRO feature that will be added in the future." -->
+    <string name="lbl03gpp_faq">Oui, vous ne payez qu\'une seule fois et vous aurez également accès à toutes les fonctionnalités PRO qui seront ajoutées à l\'avenir.</string>
+    <!-- Key: "lbl04gpp_faq", English.value: "Will it still work if I change the device?" -->
+    <string name="lbl04gpp_faq">Est-ce que cela fonctionnera toujours si je change d\'appareil?</string>
+    <!-- Key: "lbl05gpp_faq", English.value: "Yes, this payment is tied to yur Google account, so every device that is logged in to the same account will have access PRO features." -->
+    <string name="lbl05gpp_faq">Oui, ce paiement est lié à votre compte Google, de sorte que chaque appareil connecté au même compte aura accès aux fonctionnalités PRO.</string>
+
+    <!-- ############################### LVL ############################### -->
+
+    <!-- Key: "lvl_check_license", English.value: "Check license" -->
+    <string name="lvl_check_license">Vérifier la licence</string>
+    <!-- Key: "lvl_checking_license", English.value: "Checking license..." -->
+    <string name="lvl_checking_license" tools:ignore="TypographyEllipsis">Vérification de la licence ...</string>
+    <!-- Key: "lvl_user_access_denied", English.value: "User access denied." -->
+    <string name="lvl_user_access_denied">Accès utilisateur refusé.</string>
+    <!-- Key: "lvl_user_access_allowed", English.value: "User access allowed." -->
+    <string name="lvl_user_access_allowed">Accès utilisateur autorisé.</string>
+    <!-- Key: "lvl_application_error", English.value: "Application error: %1$d" -->
+    <string name="lvl_application_error">Erreur d\'application: %1$d</string>
+
+    <!-- Key: "lvl_unlicensed_dialog_title", English.value: "Application not licensed" -->
+    <string name="lvl_unlicensed_dialog_title">Application non autorisée</string>
+    <!-- Key: "lvl_unlicensed_dialog_body", English.value: "This application is not licensed." -->
+    <string name="lvl_unlicensed_dialog_body">Cette application n\'est pas sous licence.</string>
+    <!-- Key: "lvl_unlicensed_dialog_retry_body", English.value: "Unable to validate license. Check to see if a network connection is available." -->
+    <string name="lvl_unlicensed_dialog_retry_body">Impossible de valider la licence. Vérifiez si une connexion réseau est disponible.</string>
+    <!-- Key: "lvl_restore_access_button", English.value: "Restore Access" -->
+    <string name="lvl_restore_access_button">Restaurer l\'accès</string>
+    <!-- Key: "lvl_btn_retry", English.value: "Retry" -->
+    <string name="lvl_btn_retry">Pour réessayer</string>
+    <!-- Key: "lvl_btn_quit", English.value: "Exit" -->
+    <string name="lvl_btn_quit">Pour quitter</string>
+
+    <!-- ############################### MESSAGES ############################### -->
+
+    <!-- Key: "PLAY_SERVICES_NOT_SUPPORTED", English.value: "Your device does not support notification functionality." -->
+    <string name="PLAY_SERVICES_NOT_SUPPORTED">Votre appareil ne prend pas en charge la fonctionnalité de notification.</string>
+    <!-- Key: "APP_WITHOUT_PERMISSIONS", English.value: "No permission to execute some operation." -->
+    <string name="APP_WITHOUT_PERMISSIONS">Aucune autorisation pour exécuter une opération.</string>
+    <!-- Key: "INTERNET_CONNECTION_PROBLEM", English.value: "Internet connection issues, please, check the connection." -->
+    <string name="INTERNET_CONNECTION_PROBLEM">Problèmes de connexion Internet, veuillez vérifier la connexion.</string>
+    <!-- Key: "INTERNET_CONNECTION_NOT_AVAILABLE", English.value: "Internet connection not available." -->
+    <string name="INTERNET_CONNECTION_NOT_AVAILABLE">Connexion Internet non disponible.</string>
+
+    <!-- Key: "START_DATETIME_ERROR", English.value: "Start date must be greater than end date" -->
+    <string name="START_DATETIME_ERROR">La date de début doit être postérieure à la date de fin</string>
+    <!-- Key: "FINISH_DATETIME_ERROR", English.value: "End date must be greater than now" -->
+    <string name="FINISH_DATETIME_ERROR">La date de fin doit être postérieure à maintenant</string>
+    <!-- Key: "RESET_ALL_DAYS_QUESTION", English.value: "Do you really want to reset all app data?" -->
+    <string name="RESET_ALL_DAYS_QUESTION">Voulez-vous vraiment réinitialiser toutes les données de l\'application?</string>
+    <!-- Key: "ALL_DATA_RESET", English.value: "All data reset successfully." -->
+    <string name="ALL_DATA_RESET">Toutes les données ont été réinitialisées avec succès.</string>
+    <!-- Key: "PROGRESS_NOTIFICATION_TEXT", English.value: "%1$s days left!" -->
+    <string name="PROGRESS_NOTIFICATION_TEXT">Il reste %1$s jours!</string>
+    <!-- Key: "PROGRESS_NOTIFICATION_TEXT_ONE_DAY", English.value: "1 day left!" -->
+    <string name="PROGRESS_NOTIFICATION_TEXT_ONE_DAY">1 jour restant!</string>
+    <!-- Key: "PROGRESS_NOTIFICATION_TEXT_ZERO_DAYS", English.value: "< 0 days left!" -->
+    <string name="PROGRESS_NOTIFICATION_TEXT_ZERO_DAYS">&lt;0 jours de plus!</string>
+
+    <!-- Key: "PROGRESS_NOTIFICATION_TITLE", English.value: "The days are passing by..." -->
+    <string name="PROGRESS_NOTIFICATION_TITLE" tools:ignore="TypographyEllipsis">Les jours passent ...</string>
+
+    <!-- Key: "THIS_FIELD_IS_MANDATORY", English.value: "This field is mandatory." -->
+    <string name="THIS_FIELD_IS_MANDATORY">Ce champ est obligatoire.</string>
+    <!-- Key: "DELETE_EVENT_MESSAGE", English.value: "Are you sure to delete this event? This action cannot be undone!" -->
+    <string name="DELETE_EVENT_MESSAGE">Êtes-vous sûr de vouloir supprimer cet événement? Cette action ne peut pas être annulée!</string>
+    <!-- Key: "DELETE_EVENT_EXTRA_MESSAGE", English.value: "Are you really sure?" -->
+    <string name="DELETE_EVENT_EXTRA_MESSAGE">Êtes-vous vraiment sûr?</string>
+    <!-- Key: "DELETE_EVENT_EXTRA_CHECK_REQUIRED", English.value: "You need to mark the checkbox to continue." -->
+    <string name="DELETE_EVENT_EXTRA_CHECK_REQUIRED">Vous devez cocher la case pour continuer.</string>
+    <!-- Key: "DELETE_EVENT_SUCCESSFULLY", English.value: "Event deleted successfully" -->
+    <string name="DELETE_EVENT_SUCCESSFULLY">Événement supprimé avec succès</string>
+    <!-- Key: "REGISTER_STORED_IN_HISTORY", English.value: "Record stored in history" -->
+    <string name="REGISTER_STORED_IN_HISTORY">Enregistrement stocké dans l\'histoire</string>
+
+    <!-- Key: "NEW_VERSION_TITLE", English.value: "New version" -->
+    <string name="NEW_VERSION_TITLE">Nouvelle version</string>
+    <!-- Key: "NEW_VERSION_1_0", English.value: "Hi!! 😃 A new widget is available! From a Home screen, touch and hold an empty area, and then tap Widgets. Touch and hold CDT widget, and then drag it to your desired location. 🙌" -->
+    <string name="NEW_VERSION_1_0">Salut!! 😃 Un nouveau widget est disponible! Depuis un écran d\'accueil, appuyez de manière prolongée sur une zone vide, puis appuyez sur Widgets. Appuyez de manière prolongée sur le widget CDT, puis faites-le glisser vers l\'emplacement souhaité. 🙌</string>
+
+    <!-- Key: "BACKUP_SUCCESS", English.value: "Backup completed successfully!" -->
+    <string name="BACKUP_SUCCESS">Sauvegarde terminée avec succès!</string>
+    <!-- Key: "BACKUP_FAIL", English.value: "Backup failed" -->
+    <string name="BACKUP_FAIL">La sauvegarde a échoué</string>
+    <!-- Key: "RESTORE_SUCCESS", English.value: "Restore completed successfully!" -->
+    <string name="RESTORE_SUCCESS">Restauration terminée avec succès!</string>
+    <!-- Key: "RESTORE_FAIL", English.value: "Restore failed. Performing rollback..." -->
+    <string name="RESTORE_FAIL" tools:ignore="TypographyEllipsis">La restauration a échoué. Exécution de la restauration ...</string>
+    <!-- Key: "ROLLBACK_SUCCESS", English.value: "Rollback completed successfully!" -->
+    <string name="ROLLBACK_SUCCESS">Restauration terminée avec succès!</string>
+    <!-- Key: "ROLLBACK_FAIL", English.value: "Rollback failed" -->
+    <string name="ROLLBACK_FAIL">La restauration a échoué</string>
+    <!-- Key: "INVALID_BK_FILE", English.value: "The chosen file is invalid or corrupted." -->
+    <string name="INVALID_BK_FILE">Le fichier choisi est invalide ou corrompu.</string>
+
+
+    <!-- Key: "MILESTONE_NOTIFICATION_CONTENT", English.value: "%1$s hours left for this event to arrive.\nEnd date: %2$s" -->
+    <string name="MILESTONE_NOTIFICATION_CONTENT">Il reste %1$s heures pour que cet événement arrive. \nDate de fin: %2$s</string>
+    <!-- Key: "MILESTONE_NOTIFICATION_CONTENT_PAST_EVENT", English.value: "This event is over!\nEnd date: %1$s" -->
+    <string name="MILESTONE_NOTIFICATION_CONTENT_PAST_EVENT">Cet événement est terminé! \nDate de fin: %1$s</string>
+
+    <!-- Key: "ONLY_PRO_USERS_CAN_EDIT_PAST_EVENTS", English.value: "Only PRO users can edit past events. Get PRO pack." -->
+    <string name="ONLY_PRO_USERS_CAN_EDIT_PAST_EVENTS">Seuls les utilisateurs PRO peuvent modifier les événements passés. Obtenez le pack PRO.</string>
+
+    <!--  ############################### PURCHASE ############################### -->
+
+    <!-- Key: "hw_couldnt_load_products", English.value: "Couldn\'t load the products. Please, check your internet connection." -->
+    <string name="hw_couldnt_load_products">Impossible de charger les produits. S\'il vous plait, vérifiez votre connexion internet.</string>
+    <!-- Key: "hw_order_cancelled", English.value: "This order has been canceled!" -->
+    <string name="hw_order_cancelled">Cette commande a été annulée!</string>
+    <!-- Key: "hw_payment_successful_but_sign_failed", English.value: "Payment successful, but sign failed." -->
+    <string name="hw_payment_successful_but_sign_failed">Paiement réussi, mais la signature a échoué.</string>
+    <!-- Key: "hw_payment_failed", English.value: "Payment failed." -->
+    <string name="hw_payment_failed">Paiement échoué.</string>
+    <!-- Key: "hw_loading_product", English.value: "Loading..." -->
+    <string name="hw_loading_product" tools:ignore="TypographyEllipsis">Chargement...</string>
+
+    <!-- ############################### RATE DIALOG ############################### -->
+
+    <!-- Key: "title_rate_dialog_message", English.value: "Rate CDT" -->
+    <string name="title_rate_dialog_message">Évaluez le CDT</string>
+    <!-- Key: "lbl01_rate", English.value: "If CDT is helping you somehow, please take a moment to rate it." -->
+    <string name="lbl01_rate">Si CDT vous aide de quelque manière que ce soit, prenez un moment pour évaluer.</string>
+    <!-- Key: "lbl02_rate", English.value: "Every comment and review counts." -->
+    <string name="lbl02_rate">Chaque commentaire et critique compte.</string>
+    <!-- Key: "lbl03_rate", English.value: "Thanks for your support!" -->
+    <string name="lbl03_rate">Merci pour votre aide!</string>
+    <!-- Key: "lbl04_rate", English.value: "Please select the number of stars to proceed." -->
+    <string name="lbl04_rate">Veuillez sélectionner le nombre d\'étoiles pour continuer.</string>
+    <!-- Key: "lbl05_rate", English.value: "Thanks! Rate us on PlayStore." -->
+    <string name="lbl05_rate">Je vous remercie! Évaluez-nous sur le PlayStore.</string>
+    <!-- Key: "lbl06_rate", English.value: "Thanks!" -->
+    <string name="lbl06_rate">Je vous remercie!</string>
+    <!-- Key: "lbl07_rate", English.value: "Please rate us on PlayStore." -->
+    <string name="lbl07_rate">Veuillez nous évaluer dans le PlayStore.</string>
+
+    <!-- ############################### WELCOME DIALOG ############################### -->
+
+    <!-- Key: "title_welcome_dialog_message", English.value: "Welcome message" -->
+    <string name="title_welcome_dialog_message">Message de bienvenue</string>
+    <!-- Key: "lbl01", English.value: "Hi," -->
+    <string name="lbl01">Salut,</string>
+    <!-- Key: "lbl02", English.value: "Welcome to CDT!" -->
+    <string name="lbl02">Bienvenue chez CDT!</string>
+    <!-- Key: "lbl03", English.value: "With this app you can follow the most important events in your life. Want to know how many days are left for any event? Use the day countdown to help you:" -->
+    <string name="lbl03">Avec cette application, vous pouvez suivre les événements les plus importants de votre vie. Vous voulez savoir combien de jours il reste pour un événement? Utilisez le compte à rebours du jour pour vous aider:</string>
+    <!-- EN RESOURCE NOT FOUND -->
+    <string translatable="false" name="lbl05">•</string>
+    <!-- Key: "lbl06", English.value: "🎂 How many days until your birthday?" -->
+    <string name="lbl06">🎂 Combien de jours avant votre anniversaire?</string>
+    <!-- Key: "lbl08", English.value: "❤ How many days until your dating anniversary?" -->
+    <string name="lbl08">❤ Combien de jours avant votre anniversaire de rendez-vous?</string>
+    <!-- Key: "lbl10", English.value: "📊 How many days until your work meeting?" -->
+    <string name="lbl10">📊 Combien de jours avant votre réunion de travail?</string>
+    <!-- Key: "lbl12", English.value: "👨‍👩‍👧‍👦 How many days until your family reunion?" -->
+    <string name="lbl12">👨👩👧👦 Combien de jours avant votre réunion de famille?</string>
+
+    <!-- Key: "lbl17", English.value: "We hope to help you never forget the most important dates!" -->
+    <string name="lbl17">Nous espérons vous aider à ne jamais oublier les dates les plus importantes!</string>
+    <!-- Key: "lbl18", English.value: "Let\'s start counting! ⏰" -->
+    <string name="lbl18">Commençons à compter! ⏰</string>
+
+    <!-- ############################### WIDGET ############################### -->
+
+    <!-- Key: "widget_title", English.value: "CDT: Countdown timer" -->
+    <string name="widget_title">CDT: Compte à rebours</string>
+</resources>

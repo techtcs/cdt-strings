@@ -1,0 +1,459 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Key: "current_lang", English.value: "EN" -->
+    <string name="current_lang">KO</string>
+
+    <!-- Key: "main_title", English.value: "Days counter (Countdown timer)" -->
+    <string name="main_title">일 카운터 (카운트 다운 타이머)</string>
+
+    <!-- Key: "all_rights_reserved", English.value: "All rights reserved." -->
+    <string name="all_rights_reserved">판권 소유.</string>
+    <!-- Key: "faq", English.value: "FAQ" -->
+    <string name="faq">자주하는 질문</string>
+    <!-- Key: "rate", English.value: "Rate this app" -->
+    <string name="rate">이 앱을 평가 해주십시오</string>
+    <!-- Key: "contact", English.value: "Contact us" -->
+    <string name="contact">문의하기</string>
+    <!-- Key: "help_questions", English.value: "Questions? Do you need some help?" -->
+    <string name="help_questions">질문이 있으십니까? 도움이 필요하세요?</string>
+
+    <!-- Key: "dialog_title_easter_egg", English.value: "CDT: Hi!!" -->
+    <string name="dialog_title_easter_egg">CDT : 안녕하세요 !!</string>
+    <!-- Key: "dialog_msg_easter_egg", English.value: "Thanks for using CDT :)" -->
+    <string name="dialog_msg_easter_egg">CDT를 사용해 주셔서 감사합니다. :)</string>
+    <!-- Key: "lbl_version", English.value: "Version %1$s" -->
+    <string name="lbl_version">버전  %1$s</string>
+
+
+    <!-- Key: "title_activity_help", English.value: "Help" -->
+    <string name="title_activity_help">도움</string>
+    <!-- Key: "title_activity_about", English.value: "About" -->
+    <string name="title_activity_about">약</string>
+
+    <!-- Key: "title_activity_settings", English.value: "Settings" -->
+    <string name="title_activity_settings">설정</string>
+
+    <!-- Key: "title_activity_backup", English.value: "BACKUP / RESTORE" -->
+    <string name="title_activity_backup">백업 /복원</string>
+    <!-- Key: "btn_backup", English.value: "Backup" -->
+    <string name="btn_backup">지원</string>
+    <!-- Key: "btn_restore", English.value: "Restore" -->
+    <string name="btn_restore">복원</string>
+    <!-- Key: "choose_bk_file", English.value: "Choose a backup file" -->
+    <string name="choose_bk_file">백업 파일 선택</string>
+    <!-- Key: "save_bk_file", English.value: "Save backup file" -->
+    <string name="save_bk_file">백업 파일 저장</string>
+
+    <!-- Key: "action_help", English.value: "Help" -->
+    <string name="action_help">도움</string>
+    <!-- Key: "get_pro_version", English.value: "Get PRO version" -->
+    <string name="get_pro_version">PRO 버전 받기</string>
+
+    <!-- Key: "chooser_title_send_by", English.value: "Send by" -->
+    <string name="chooser_title_send_by">보내기</string>
+
+    <!-- Key: "action_edit", English.value: "Edit" -->
+    <string name="action_edit">편집하다</string>
+    <!-- Key: "get_pro", English.value: "GET PRO" -->
+    <string name="get_pro">프로 받기</string>
+    <!-- Key: "get_pro_price", English.value: "GET PRO ( %1$s )" -->
+    <string name="get_pro_price">PRO 받기 ( %1$s)</string>
+    <!-- Key: "snackbar_details_and_delete_message", English.value: "Click for details OR swipe to delete." -->
+    <string name="snackbar_details_and_delete_message">세부 정보를 보려면 클릭하거나 삭제하려면 스 와이프하세요.</string>
+    <!-- Key: "title_notification_pro_pack", English.value: "CDT: Update report" -->
+    <string name="title_notification_pro_pack">CDT : 보고서 업데이트</string>
+    <!-- Key: "delete_event_title", English.value: "Delete event" -->
+    <string name="delete_event_title">이벤트 삭제</string>
+    <!-- Key: "pro_pack_activated", English.value: "Thanks! :) PRO Pack Activated!" -->
+    <string name="pro_pack_activated">감사! :) PRO Pack 활성화되었습니다!</string>
+
+    <!-- Key: "pro_feature_locked", English.value: "This feature is available only in PRO pack. Do you want to get it?" -->
+    <string name="pro_feature_locked">이 기능은 PRO 팩에서만 사용할 수 있습니다. 당신은 그것을 얻고 싶습니까?</string>
+    <!-- Key: "pro_feature_locked_max_events", English.value: "Only %1$s events can be active simultaneously in the free version. Create as many events as you like and get more features with the PRO pack." -->
+    <string name="pro_feature_locked_max_events">무료 버전에서는  %1$s 이벤트 만 동시에 활성화 할 수 있습니다. PRO 팩으로 원하는만큼 이벤트를 만들고 더 많은 기능을 얻으십시오.</string>
+    <!-- Key: "btn_know_more", English.value: "Know more" -->
+    <string name="btn_know_more">더 알고</string>
+    <!-- Key: "lbl_pro_ad", English.value: "Follow up as many events as you like with the PRO pack!" -->
+    <string name="lbl_pro_ad">PRO 팩으로 원하는만큼 이벤트를 팔로우하세요!</string>
+
+    <!-- Key: "ORDER", English.value: "Sort order:" -->
+    <string name="ORDER">정렬 순서 :</string>
+
+    <!-- Key: "share", English.value: "SHARE" -->
+    <string name="share">공유</string>
+    <!-- Key: "action_settings", English.value: "Settings" -->
+    <string name="action_settings">설정</string>
+    <!-- Key: "share_app_message", English.value: "Do you want to share this app with your friends?" -->
+    <string name="share_app_message">이 앱을 친구들과 공유 하시겠습니까?</string>
+    <!-- Key: "share_app_extra_text", English.value: "Hi, I\'m using CDT to remember my special events! Download the app and check it out: https://play.google.com/store/apps/details?id=tech.tcsolution.cdt" -->
+    <string name="share_app_extra_text">안녕하세요, 저는 제 특별한 이벤트를 기억하기 위해 CDT를 사용하고 있습니다! 앱을 다운로드하고 확인하십시오 : https://play.google.com/store/apps/details?id=tech.tcsolution.cdt</string>
+
+
+    <!-- Key: "answer_get", English.value: "Get PRO" -->
+    <string name="answer_get">PRO 받기</string>
+    <!-- Key: "answer_cancel", English.value: "Cancel" -->
+    <string name="answer_cancel">취소</string>
+    <!-- Key: "answer_save", English.value: "Save" -->
+    <string name="answer_save">저장</string>
+    <!-- Key: "answer_yes_caps", English.value: "YES" -->
+    <string name="answer_yes_caps">예</string>
+    <!-- Key: "answer_cancel_caps", English.value: "CANCEL" -->
+    <string name="answer_cancel_caps" tools:ignore="ButtonCase">취소</string>
+    <!-- Key: "answer_later", English.value: "Later" -->
+    <string name="answer_later">나중</string>
+
+    <!-- Key: "pref_delete_confirmation", English.value: "Extra deletion confirmation" -->
+    <string name="pref_delete_confirmation">추가 삭제 확인</string>
+    <!-- Key: "pref_delete_confirmation_summary", English.value: "Mark a checkbox before to delete an event" -->
+    <string name="pref_delete_confirmation_summary">이벤트를 삭제하기 전에 확인란을 선택하십시오.</string>
+    <!-- Key: "pref_reset_all_button", English.value: "RESET DATA" -->
+    <string name="pref_reset_all_button">데이터 재설정</string>
+    <!-- Key: "pref_reset_all_button_summary", English.value: "This will reset all app data" -->
+    <string name="pref_reset_all_button_summary">모든 앱 데이터가 재설정됩니다.</string>
+
+    <!-- Key: "load", English.value: "Loading ... This may take a while if the device is restarting" -->
+    <string name="load" tools:ignore="TypographyEllipsis">로드 중 ... 기기가 다시 시작되면 시간이 걸릴 수 있습니다.</string>
+    <!-- Key: "pref_heading_general", English.value: "‣ GENERAL" -->
+    <string name="pref_heading_general">‣ 일반</string>
+    <!-- Key: "pref_heading_pro", English.value: "★ PRO" -->
+    <string name="pref_heading_pro">★ 프로</string>
+
+    <!-- Key: "lbl_active_events", English.value: "Active events" -->
+    <string name="lbl_active_events">활성 이벤트</string>
+    <!-- Key: "lbl_past_events", English.value: "Past events" -->
+    <string name="lbl_past_events">과거 사건들</string>
+
+    <!-- Key: "turn_on_notifications_message", English.value: "Notifications are important for a better user experience. Would you like to turn them on?" -->
+    <string name="turn_on_notifications_message">알림은 더 나은 사용자 경험을 위해 중요합니다. 켜시겠습니까?</string>
+    <!-- Key: "turn_on_notifications_title", English.value: "Turn on notifications" -->
+    <string name="turn_on_notifications_title">알림 켜기</string>
+
+    <!-- Key: "lbl_title", English.value: "Title:" -->
+    <string name="lbl_title">표제:</string>
+    <!-- Key: "lbl_event_hint", English.value: "Event..." -->
+    <string name="lbl_event_hint" tools:ignore="TypographyEllipsis">행사...</string>
+    <!-- Key: "lbl_description_hint", English.value: "..." -->
+    <string name="lbl_description_hint" tools:ignore="TypographyEllipsis">...</string>
+    <!-- Key: "lbl_start_title", English.value: "Countdown timer" -->
+    <string name="lbl_start_title">카운트 다운 타이머</string>
+    <!-- Key: "lbl_category", English.value: "Category:" -->
+    <string name="lbl_category">범주:</string>
+    <!-- Key: "lbl_description", English.value: "Description:" -->
+    <string name="lbl_description">기술:</string>
+    <!-- Key: "lbl_start_date", English.value: "Start date:" -->
+    <string name="lbl_start_date">시작 날짜:</string>
+    <!-- Key: "lbl_finish_date", English.value: "Finish date:" -->
+    <string name="lbl_finish_date">종료일 :</string>
+    <!-- Key: "lbl_reminder_when", English.value: "Reminder:" -->
+    <string name="lbl_reminder_when">조언:</string>
+    <!-- Key: "lbl_last_reminder_before_x_hours", English.value: "Last reminder" -->
+    <string name="lbl_last_reminder_before_x_hours">마지막 알림</string>
+    <!-- Key: "lbl_last_reminder_before_x_hours_sub", English.value: "(Notify X hours before)" -->
+    <string name="lbl_last_reminder_before_x_hours_sub">(X 시간 전에 알림)</string>
+    <!-- Key: "start", English.value: "START" -->
+    <string name="start">스타트</string>
+
+    <!-- Key: "lbl_days_zero", English.value: "0 days" -->
+    <string name="lbl_days_zero">0 일</string>
+
+    <plurals name="lbl_days">
+        <!-- Key: "lbl_days.one", English.value: "%1$s day" -->
+        <item quantity="one">%1$s 일</item>
+        <!-- Key: "lbl_days.other", English.value: "%1$s days" -->
+        <item quantity="other">%1$s 일</item>
+    </plurals>
+
+    <!-- Key: "lbl_reminder_when_daily", English.value: "Daily" -->
+    <string name="lbl_reminder_when_daily" tools:ignore="TypographyEllipsis">매일</string>
+    <!-- Key: "lbl_reminder_when_weekly_on_mondays", English.value: "Weekly (on Mondays)" -->
+    <string name="lbl_reminder_when_weekly_on_mondays" tools:ignore="TypographyEllipsis">매주 (월요일)</string>
+    <!-- Key: "lbl_reminder_when_weekly_on_saturdays", English.value: "Weekly (on Saturdays)" -->
+    <string name="lbl_reminder_when_weekly_on_saturdays" tools:ignore="TypographyEllipsis">매주 (토요일)</string>
+    <!-- Key: "lbl_reminder_when_weekly_on_sundays", English.value: "Weekly (on Sundays)" -->
+    <string name="lbl_reminder_when_weekly_on_sundays" tools:ignore="TypographyEllipsis">매주 (일요일)</string>
+    <!-- Key: "lbl_reminder_when_monthly_first", English.value: "Monthly (on the first day)" -->
+    <string name="lbl_reminder_when_monthly_first" tools:ignore="TypographyEllipsis">매월 (첫날)</string>
+    <!-- Key: "lbl_reminder_when_monthly_last", English.value: "Monthly (on the last day)" -->
+    <string name="lbl_reminder_when_monthly_last" tools:ignore="TypographyEllipsis">매월 (마지막 날)</string>
+    <!-- Key: "lbl_reminder_when_never", English.value: "Never" -->
+    <string name="lbl_reminder_when_never" tools:ignore="TypographyEllipsis">못</string>
+
+    <!-- Key: "lbl_details", English.value: "Details" -->
+    <string name="lbl_details">세부</string>
+
+    <!-- Key: "title_activity_event_selection", English.value: "Select an event:" -->
+    <string name="title_activity_event_selection">이벤트 선택 :</string>
+    <!-- Key: "widget1_label", English.value: "1- General widget" -->
+    <string name="widget1_label">1- 일반 위젯</string>
+    <!-- Key: "widget2_label", English.value: "2- General widget" -->
+    <string name="widget2_label">2- 일반 위젯</string>
+    <!-- Key: "widget3_label", English.value: "3- 1x1 widget" -->
+    <string name="widget3_label" tools:ignore="TypographyDashes">3-1x1 위젯</string>
+    <!-- Key: "widget4_label", English.value: "4- 1x1 widget" -->
+    <string name="widget4_label" tools:ignore="TypographyDashes">4- 1x1 위젯</string>
+
+    <!-- Key: "lbl_event_ended_on", English.value: "Ended on:" -->
+    <string name="lbl_event_ended_on">종료일 :</string>
+
+    <!-- Key: "lbl_bg_work_notif_title", English.value: "Background work notification" -->
+    <string name="lbl_bg_work_notif_title">백그라운드 작업 알림</string>
+    <!-- Key: "lbl_bg_work_notif_msg_part01", English.value: "There was a change in Android Oreo and every background service has to show its notification now." -->
+    <string name="lbl_bg_work_notif_msg_part01">Android Oreo가 변경되었으며 모든 백그라운드 서비스는 지금 알림을 표시해야합니다.</string>
+    <!-- Key: "lbl_bg_work_notif_msg_part02", English.value: "Our app needs to monitor screen on/off state in background to work reliably and with low battery footprint. This monitoring consumes virtually no battery but we still have to show a fixed notification. Otherwise system will kill our app." -->
+    <string name="lbl_bg_work_notif_msg_part02">우리 앱은 백그라운드에서 화면 켜기 /끄기 상태를 모니터링해야 안정적으로 작동하고 배터리 사용량이 적습니다. 이 모니터링은 사실상 배터리를 소비하지 않지만 고정 된 알림을 표시해야합니다. 그렇지 않으면 시스템이 앱을 종료합니다.</string>
+    <!-- Key: "lbl_bg_work_notif_msg_part03", English.value: "Fortunately this notification can be turned off in notification settings." -->
+    <string name="lbl_bg_work_notif_msg_part03">다행히이 알림은 알림 설정에서 끌 수 있습니다.</string>
+    <!-- Key: "lbl_bg_work_notif_msg_part04", English.value: "Tap on [Notification settings] button bellow and you will be redirected to notification settings screen. Uncheck category notification called [Widget update service] to hide this notification." -->
+    <string name="lbl_bg_work_notif_msg_part04">아래의 [알림 설정] 버튼을 누르면 알림 설정 화면으로 이동합니다. 이 알림을 숨기려면 [위젯 업데이트 서비스]라는 카테고리 알림을 선택 취소합니다.</string>
+
+    <!-- Key: "answer_close_caps", English.value: "CLOSE" -->
+    <string name="answer_close_caps">닫기</string>
+    <!-- Key: "answer_notif_settings_caps", English.value: "NOTIFICATION SETTINGS" -->
+    <string name="answer_notif_settings_caps">알림 설정</string>
+    <!-- Key: "lbl_warning", English.value: "Warning" -->
+    <string name="lbl_warning">경고</string>
+    <!-- Key: "lbl_changes_done", English.value: "Changes done" -->
+    <string name="lbl_changes_done">변경 완료</string>
+
+    <!-- Key: "lbl_widget_update_selection_title", English.value: "Is the widget not updating?" -->
+    <string name="lbl_widget_update_selection_title">위젯이 업데이트되지 않습니까?</string>
+    <!-- Key: "lbl_widget_update_selection_msg_part01", English.value: "Some divergence in updating the widget may eventually occur, but this divergence is usually less than 1 minute. If the counter value is more than 1 minute apart, this may help you." -->
+    <string name="lbl_widget_update_selection_msg_part01">위젯 업데이트에서 약간의 차이가 결국 발생할 수 있지만이 차이는 일반적으로 1 분 미만입니다. 카운터 값이 1 분 이상 떨어져 있으면 도움이 될 수 있습니다.</string>
+    <!-- Key: "lbl_widget_update_selection_msg_part02", English.value: "This app can use 2 different technologies to update widgets on your home screen." -->
+    <string name="lbl_widget_update_selection_msg_part02">이 앱은 두 가지 기술을 사용하여 홈 화면의 위젯을 업데이트 할 수 있습니다.</string>
+    <!-- Key: "lbl_widget_update_selection_msg_part03", English.value: "If the current technology is not periodically updating the widgets properly, change the selection below." -->
+    <string name="lbl_widget_update_selection_msg_part03">현재 기술이 주기적으로 위젯을 올바르게 업데이트하지 않는 경우 아래 선택을 변경하십시오.</string>
+    <!-- Key: "lbl_widget_update_selection_msg_part04", English.value: "undefined" -->
+    <string name="lbl_widget_update_selection_msg_part04">그래도 작동하지 않는 경우 (일반적으로 Android 11을 실행하는 삼성 기기) 기기가 백그라운드에서 애플리케이션을 종료하는 기기로 나열되어 있는지 확인하고 수행 할 수있는 작업을 확인하세요. 액세스하십시오 : <a href="https://dontkillmyapp.com/">https://dontkillmyapp.com/</a></string>
+    <!-- Key: "lbl_widget_update_selection_msg_part05", English.value: "If you still need some help, send us an email to:" -->
+    <string name="lbl_widget_update_selection_msg_part05">여전히 도움이 필요하면 다음 주소로 이메일을 보내주십시오.</string>
+    <!-- Key: "lbl_widget_update_selection_msg_part06_notice", English.value: "This option will show a fixed notification on your Android. Tap this notification when or if it appears to get more details to remove it." -->
+    <string name="lbl_widget_update_selection_msg_part06_notice">이 옵션은 Android에 고정 된 알림을 표시합니다. 제거에 대한 자세한 정보를 얻으려면이 알림을 탭하십시오.</string>
+
+    <!-- Key: "lbl_widget_update_silent_mode", English.value: "Silent mode (default)" -->
+    <string name="lbl_widget_update_silent_mode">무음 모드 (기본값)</string>
+    <!-- Key: "lbl_widget_update_bg_svc_mode", English.value: "Background service" -->
+    <string name="lbl_widget_update_bg_svc_mode">백그라운드 서비스</string>
+
+    <!-- Key: "lbl_bg_svc_notification_title", English.value: "Widget update service is running" -->
+    <string name="lbl_bg_svc_notification_title">위젯 업데이트 서비스가 실행 중입니다.</string>
+    <!-- Key: "lbl_bg_svc_notification_body", English.value: "Tap here to get more info" -->
+    <string name="lbl_bg_svc_notification_body">자세한 정보를 보려면 여기를 누르십시오.</string>
+
+    <!-- Key: "title_activity_widget_update_selection", English.value: "Widget update" -->
+    <string name="title_activity_widget_update_selection">위젯 업데이트</string>
+    <!-- Key: "title_activity_widget_bg_work_notice", English.value: "Background service" -->
+    <string name="title_activity_widget_bg_work_notice">백그라운드 서비스</string>
+
+    <!-- Key: "lbl_use_dark_mode", English.value: "Use the dark mode" -->
+    <string name="lbl_use_dark_mode">다크 모드 사용</string>
+
+    <!-- Key: "pref_daily_notification_alarm", English.value: "Show notification at (hour)" -->
+    <string name="pref_daily_notification_alarm">(시간)에 알림 표시</string>
+    <!-- Key: "pref_show_daily_notifications", English.value: "Show notifications" -->
+    <string name="pref_show_daily_notifications">알림 표시</string>
+
+    <!-- Key: "lbl_widget_on_home_screen", English.value: "How to add a widget on my home screen?" -->
+    <string name="lbl_widget_on_home_screen">홈 화면에 위젯을 추가하는 방법은 무엇입니까?</string>
+    <!-- Key: "dialog_title_widget_on_home_screen", English.value: "Widget on my home screen" -->
+    <string name="dialog_title_widget_on_home_screen">내 홈 화면의 위젯</string>
+    <!-- Key: "dialog_msg_widget_on_home_screen", English.value: "From your Home screen, touch and hold an empty area, and then tap Widgets. Touch and hold CDT widget, and then drag it to the desired location." -->
+    <string name="dialog_msg_widget_on_home_screen">홈 화면에서 빈 공간을 길게 터치 한 다음 위젯을 탭합니다. CDT 위젯을 길게 누른 후 원하는 위치로 드래그하세요.</string>
+
+    <!-- Key: "title_activity_change_theme", English.value: "Change theme" -->
+    <string name="title_activity_change_theme">테마 변경</string>
+
+    <!-- Key: "app_update_msg_almost_finished", English.value: "Update almost finished!" -->
+    <string name="app_update_msg_almost_finished">업데이트가 거의 완료되었습니다!</string>
+    <!-- Key: "app_update_msg_almost_finished_button", English.value: "Restart" -->
+    <string name="app_update_msg_almost_finished_button">재시작</string>
+
+    <!-- ############################### GET PRO PACK ############################### -->
+
+    <!-- Key: "title_get_pro_pack", English.value: "Get PRO pack" -->
+    <string name="title_get_pro_pack">PRO 팩 받기</string>
+    <!-- Key: "lbl01gpp", English.value: "Hi again," -->
+    <string name="lbl01gpp">다시 안녕하세요.</string>
+    <!-- Key: "lbl02gpp", English.value: "Enable all app features by getting the PRO pack!" -->
+    <string name="lbl02gpp">PRO 팩을 받아 모든 앱 기능을 활성화하세요!</string>
+    <!-- Key: "lbl03gpp", English.value: "⭐ PRO features:" -->
+    <string name="lbl03gpp">⭐ PRO 기능 :</string>
+    <!-- Key: "lbl06gpp", English.value: "Follow up as many events as you want" -->
+    <string name="lbl06gpp">원하는만큼 많은 이벤트를 추적하세요.</string>
+    <!-- Key: "lbl08gpp", English.value: "Edit past events" -->
+    <string name="lbl08gpp">지난 이벤트 수정</string>
+    <!-- Key: "lbl10gpp", English.value: "Backup and restore your events" -->
+    <string name="lbl10gpp">이벤트 백업 및 복원</string>
+    <!-- Key: "lbl12gpp", English.value: "Use the dark mode" -->
+    <string name="lbl12gpp">다크 모드 사용</string>
+    <!-- Key: "lbl14gpp", English.value: "Get individual widgets (1x1)" -->
+    <string name="lbl14gpp">개별 위젯 받기 (1x1)</string>
+
+    <!-- Key: "lbl01gpp_faq", English.value: "FAQ" -->
+    <string name="lbl01gpp_faq">자주하는 질문</string>
+    <!-- Key: "lbl02gpp_faq", English.value: "Is this one time payment?" -->
+    <string name="lbl02gpp_faq">이것은 일회성 지불입니까?</string>
+    <!-- Key: "lbl03gpp_faq", English.value: "Yes, you only pay once and you will also have access to every PRO feature that will be added in the future." -->
+    <string name="lbl03gpp_faq">예, 한 번만 지불하면 향후 추가 될 모든 PRO 기능에 액세스 할 수 있습니다.</string>
+    <!-- Key: "lbl04gpp_faq", English.value: "Will it still work if I change the device?" -->
+    <string name="lbl04gpp_faq">장치를 변경해도 작동합니까?</string>
+    <!-- Key: "lbl05gpp_faq", English.value: "Yes, this payment is tied to yur Google account, so every device that is logged in to the same account will have access PRO features." -->
+    <string name="lbl05gpp_faq">예,이 결제는 yur Google 계정에 연결되어 있으므로 동일한 계정에 로그인 한 모든 장치는 PRO 기능에 액세스 할 수 있습니다.</string>
+
+    <!-- ############################### LVL ############################### -->
+
+    <!-- Key: "lvl_check_license", English.value: "Check license" -->
+    <string name="lvl_check_license">라이센스 확인</string>
+    <!-- Key: "lvl_checking_license", English.value: "Checking license..." -->
+    <string name="lvl_checking_license" tools:ignore="TypographyEllipsis">라이센스 확인 중 ...</string>
+    <!-- Key: "lvl_user_access_denied", English.value: "User access denied." -->
+    <string name="lvl_user_access_denied">사용자 액세스가 거부되었습니다.</string>
+    <!-- Key: "lvl_user_access_allowed", English.value: "User access allowed." -->
+    <string name="lvl_user_access_allowed">사용자 액세스가 허용됩니다.</string>
+    <!-- Key: "lvl_application_error", English.value: "Application error: %1$d" -->
+    <string name="lvl_application_error">응용 프로그램 오류 :  %1$d</string>
+
+    <!-- Key: "lvl_unlicensed_dialog_title", English.value: "Application not licensed" -->
+    <string name="lvl_unlicensed_dialog_title">라이선스가없는 애플리케이션</string>
+    <!-- Key: "lvl_unlicensed_dialog_body", English.value: "This application is not licensed." -->
+    <string name="lvl_unlicensed_dialog_body">이 응용 프로그램은 라이센스가 없습니다.</string>
+    <!-- Key: "lvl_unlicensed_dialog_retry_body", English.value: "Unable to validate license. Check to see if a network connection is available." -->
+    <string name="lvl_unlicensed_dialog_retry_body">라이센스를 확인할 수 없습니다. 네트워크 연결이 가능한지 확인하십시오.</string>
+    <!-- Key: "lvl_restore_access_button", English.value: "Restore Access" -->
+    <string name="lvl_restore_access_button">액세스 복원</string>
+    <!-- Key: "lvl_btn_retry", English.value: "Retry" -->
+    <string name="lvl_btn_retry">다시 해 보다</string>
+    <!-- Key: "lvl_btn_quit", English.value: "Exit" -->
+    <string name="lvl_btn_quit">출구</string>
+
+    <!-- ############################### MESSAGES ############################### -->
+
+    <!-- Key: "PLAY_SERVICES_NOT_SUPPORTED", English.value: "Your device does not support notification functionality." -->
+    <string name="PLAY_SERVICES_NOT_SUPPORTED">장치가 알림 기능을 지원하지 않습니다.</string>
+    <!-- Key: "APP_WITHOUT_PERMISSIONS", English.value: "No permission to execute some operation." -->
+    <string name="APP_WITHOUT_PERMISSIONS">일부 작업을 실행할 권한이 없습니다.</string>
+    <!-- Key: "INTERNET_CONNECTION_PROBLEM", English.value: "Internet connection issues, please, check the connection." -->
+    <string name="INTERNET_CONNECTION_PROBLEM">인터넷 연결 문제입니다. 연결 상태를 확인하세요.</string>
+    <!-- Key: "INTERNET_CONNECTION_NOT_AVAILABLE", English.value: "Internet connection not available." -->
+    <string name="INTERNET_CONNECTION_NOT_AVAILABLE">인터넷 연결을 사용할 수 없습니다.</string>
+
+    <!-- Key: "START_DATETIME_ERROR", English.value: "Start date must be greater than end date" -->
+    <string name="START_DATETIME_ERROR">시작 날짜는 종료 날짜보다 이후여야 합니다.</string>
+    <!-- Key: "FINISH_DATETIME_ERROR", English.value: "End date must be greater than now" -->
+    <string name="FINISH_DATETIME_ERROR">종료일은 지금보다 이후 여야합니다.</string>
+    <!-- Key: "RESET_ALL_DAYS_QUESTION", English.value: "Do you really want to reset all app data?" -->
+    <string name="RESET_ALL_DAYS_QUESTION">모든 앱 데이터를 재설정 하시겠습니까?</string>
+    <!-- Key: "ALL_DATA_RESET", English.value: "All data reset successfully." -->
+    <string name="ALL_DATA_RESET">모든 데이터가 성공적으로 재설정되었습니다.</string>
+    <!-- Key: "PROGRESS_NOTIFICATION_TEXT", English.value: "%1$s days left!" -->
+    <string name="PROGRESS_NOTIFICATION_TEXT">%1$s 일 남았습니다!</string>
+    <!-- Key: "PROGRESS_NOTIFICATION_TEXT_ONE_DAY", English.value: "1 day left!" -->
+    <string name="PROGRESS_NOTIFICATION_TEXT_ONE_DAY">1 일 남음!</string>
+    <!-- Key: "PROGRESS_NOTIFICATION_TEXT_ZERO_DAYS", English.value: "< 0 days left!" -->
+    <string name="PROGRESS_NOTIFICATION_TEXT_ZERO_DAYS">&lt;0 일 남음!</string>
+
+    <!-- Key: "PROGRESS_NOTIFICATION_TITLE", English.value: "The days are passing by..." -->
+    <string name="PROGRESS_NOTIFICATION_TITLE" tools:ignore="TypographyEllipsis">날이 지나가고 ...</string>
+
+    <!-- Key: "THIS_FIELD_IS_MANDATORY", English.value: "This field is mandatory." -->
+    <string name="THIS_FIELD_IS_MANDATORY">이 필드는 필수입니다.</string>
+    <!-- Key: "DELETE_EVENT_MESSAGE", English.value: "Are you sure to delete this event? This action cannot be undone!" -->
+    <string name="DELETE_EVENT_MESSAGE">이 이벤트를 삭제 하시겠습니까? 이 작업은 취소 할 수 없습니다!</string>
+    <!-- Key: "DELETE_EVENT_EXTRA_MESSAGE", English.value: "Are you really sure?" -->
+    <string name="DELETE_EVENT_EXTRA_MESSAGE">정말 확실해?</string>
+    <!-- Key: "DELETE_EVENT_EXTRA_CHECK_REQUIRED", English.value: "You need to mark the checkbox to continue." -->
+    <string name="DELETE_EVENT_EXTRA_CHECK_REQUIRED">계속하려면 확인란을 선택해야합니다.</string>
+    <!-- Key: "DELETE_EVENT_SUCCESSFULLY", English.value: "Event deleted successfully" -->
+    <string name="DELETE_EVENT_SUCCESSFULLY">이벤트가 성공적으로 삭제되었습니다.</string>
+    <!-- Key: "REGISTER_STORED_IN_HISTORY", English.value: "Record stored in history" -->
+    <string name="REGISTER_STORED_IN_HISTORY">역사에 저장된 기록</string>
+
+    <!-- Key: "NEW_VERSION_TITLE", English.value: "New version" -->
+    <string name="NEW_VERSION_TITLE">새로운 버전</string>
+    <!-- Key: "NEW_VERSION_1_0", English.value: "Hi!! 😃 A new widget is available! From a Home screen, touch and hold an empty area, and then tap Widgets. Touch and hold CDT widget, and then drag it to your desired location. 🙌" -->
+    <string name="NEW_VERSION_1_0">안녕!! 😃 새 위젯을 사용할 수 있습니다! 홈 화면에서 빈 공간을 길게 누른 후 위젯을 누르세요. CDT 위젯을 길게 터치 한 다음 원하는 위치로 끕니다. 🙌</string>
+
+    <!-- Key: "BACKUP_SUCCESS", English.value: "Backup completed successfully!" -->
+    <string name="BACKUP_SUCCESS">백업이 성공적으로 완료되었습니다!</string>
+    <!-- Key: "BACKUP_FAIL", English.value: "Backup failed" -->
+    <string name="BACKUP_FAIL">백업 실패</string>
+    <!-- Key: "RESTORE_SUCCESS", English.value: "Restore completed successfully!" -->
+    <string name="RESTORE_SUCCESS">복원이 성공적으로 완료되었습니다!</string>
+    <!-- Key: "RESTORE_FAIL", English.value: "Restore failed. Performing rollback..." -->
+    <string name="RESTORE_FAIL" tools:ignore="TypographyEllipsis">복원에 실패했습니다. 롤백 수행 중 ...</string>
+    <!-- Key: "ROLLBACK_SUCCESS", English.value: "Rollback completed successfully!" -->
+    <string name="ROLLBACK_SUCCESS">롤백이 성공적으로 완료되었습니다!</string>
+    <!-- Key: "ROLLBACK_FAIL", English.value: "Rollback failed" -->
+    <string name="ROLLBACK_FAIL">롤백 실패</string>
+    <!-- Key: "INVALID_BK_FILE", English.value: "The chosen file is invalid or corrupted." -->
+    <string name="INVALID_BK_FILE">선택한 파일이 잘못되었거나 손상되었습니다.</string>
+
+
+    <!-- Key: "MILESTONE_NOTIFICATION_CONTENT", English.value: "%1$s hours left for this event to arrive.\nEnd date: %2$s" -->
+    <string name="MILESTONE_NOTIFICATION_CONTENT">이 이벤트가 도착하는 데  %1$s 시간이 남았습니다. \n종료 날짜 :  %2$s</string>
+    <!-- Key: "MILESTONE_NOTIFICATION_CONTENT_PAST_EVENT", English.value: "This event is over!\nEnd date: %1$s" -->
+    <string name="MILESTONE_NOTIFICATION_CONTENT_PAST_EVENT">이 이벤트는 끝났습니다! \n종료일 :  %1$s</string>
+
+    <!-- Key: "ONLY_PRO_USERS_CAN_EDIT_PAST_EVENTS", English.value: "Only PRO users can edit past events. Get PRO pack." -->
+    <string name="ONLY_PRO_USERS_CAN_EDIT_PAST_EVENTS">PRO 사용자 만 과거 이벤트를 편집 할 수 있습니다. PRO 팩을 받으세요.</string>
+
+    <!--  ############################### PURCHASE ############################### -->
+
+    <!-- Key: "hw_couldnt_load_products", English.value: "Couldn\'t load the products. Please, check your internet connection." -->
+    <string name="hw_couldnt_load_products">제품을로드 할 수 없습니다. 인터넷 연결을 확인하십시오.</string>
+    <!-- Key: "hw_order_cancelled", English.value: "This order has been canceled!" -->
+    <string name="hw_order_cancelled">이 주문은 취소되었습니다!</string>
+    <!-- Key: "hw_payment_successful_but_sign_failed", English.value: "Payment successful, but sign failed." -->
+    <string name="hw_payment_successful_but_sign_failed">결제는 성공했지만 서명에 실패했습니다.</string>
+    <!-- Key: "hw_payment_failed", English.value: "Payment failed." -->
+    <string name="hw_payment_failed">결제 실패.</string>
+    <!-- Key: "hw_loading_product", English.value: "Loading..." -->
+    <string name="hw_loading_product" tools:ignore="TypographyEllipsis">로드 중 ...</string>
+
+    <!-- ############################### RATE DIALOG ############################### -->
+
+    <!-- Key: "title_rate_dialog_message", English.value: "Rate CDT" -->
+    <string name="title_rate_dialog_message">CDT 평가</string>
+    <!-- Key: "lbl01_rate", English.value: "If CDT is helping you somehow, please take a moment to rate it." -->
+    <string name="lbl01_rate">CDT가 어떻게 든 도움이된다면 잠시 시간을내어 평가 해주십시오.</string>
+    <!-- Key: "lbl02_rate", English.value: "Every comment and review counts." -->
+    <string name="lbl02_rate">모든 댓글과 리뷰가 중요합니다.</string>
+    <!-- Key: "lbl03_rate", English.value: "Thanks for your support!" -->
+    <string name="lbl03_rate">귀하의 지원에 감사드립니다!</string>
+    <!-- Key: "lbl04_rate", English.value: "Please select the number of stars to proceed." -->
+    <string name="lbl04_rate">계속하려면 별 수를 선택하세요.</string>
+    <!-- Key: "lbl05_rate", English.value: "Thanks! Rate us on PlayStore." -->
+    <string name="lbl05_rate">감사! PlayStore에서 평가 해주세요.</string>
+    <!-- Key: "lbl06_rate", English.value: "Thanks!" -->
+    <string name="lbl06_rate">감사!</string>
+    <!-- Key: "lbl07_rate", English.value: "Please rate us on PlayStore." -->
+    <string name="lbl07_rate">PlayStore에서 평가 해주세요.</string>
+
+    <!-- ############################### WELCOME DIALOG ############################### -->
+
+    <!-- Key: "title_welcome_dialog_message", English.value: "Welcome message" -->
+    <string name="title_welcome_dialog_message">환영 메시지</string>
+    <!-- Key: "lbl01", English.value: "Hi," -->
+    <string name="lbl01">안녕,</string>
+    <!-- Key: "lbl02", English.value: "Welcome to CDT!" -->
+    <string name="lbl02">CDT에 오신 것을 환영합니다!</string>
+    <!-- Key: "lbl03", English.value: "With this app you can follow the most important events in your life. Want to know how many days are left for any event? Use the day countdown to help you:" -->
+    <string name="lbl03">이 응용 프로그램으로 당신은 당신의 인생에서 가장 중요한 사건을 따를 수 있습니다. 이벤트에 며칠이 남았는지 알고 싶으십니까? 일 카운트 다운을 사용하여 다음을 수행 할 수 있습니다.</string>
+    <!-- Key: "lbl06", English.value: "🎂 How many days until your birthday?" -->
+    <string name="lbl06">🎂 생일까지 며칠?</string>
+    <!-- Key: "lbl08", English.value: "❤ How many days until your dating anniversary?" -->
+    <string name="lbl08">❤ 데이트 기념일까지 며칠?</string>
+    <!-- Key: "lbl10", English.value: "📊 How many days until your work meeting?" -->
+    <string name="lbl10">📊 업무 회의까지 며칠?</string>
+    <!-- Key: "lbl12", English.value: "👨‍👩‍👧‍👦 How many days until your family reunion?" -->
+    <string name="lbl12">👨‍👩‍👧‍👦 가족 상봉까지 며칠?</string>
+
+    <!-- Key: "lbl17", English.value: "We hope to help you never forget the most important dates!" -->
+    <string name="lbl17">가장 중요한 날짜를 잊지 않도록 도와 드리겠습니다!</string>
+    <!-- Key: "lbl18", English.value: "Let\'s start counting! ⏰" -->
+    <string name="lbl18">계산을 시작합시다! ⏰</string>
+
+    <!-- ############################### WIDGET ############################### -->
+
+    <!-- Key: "widget_title", English.value: "CDT: Countdown timer" -->
+    <string name="widget_title">CDT : 카운트 다운 타이머</string>
+</resources>

@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Key: "current_lang", English.value: "EN" -->
+    <string name="current_lang">ZH</string>
+
+    <!-- Key: "main_title", English.value: "Days counter (Countdown timer)" -->
+    <string name="main_title">天数计数器（倒数计时器）</string>
+    <!-- Key: "all_rights_reserved", English.value: "All rights reserved." -->
+    <string name="all_rights_reserved">保留所有权利。</string>
+    <!-- Key: "faq", English.value: "FAQ" -->
+    <string name="faq">常见问题</string>
+    <!-- Key: "rate", English.value: "Rate this app" -->
+    <string name="rate">给这个应用程式评分</string>
+    <!-- Key: "contact", English.value: "Contact us" -->
+    <string name="contact">联系我们</string>
+    <!-- Key: "help_questions", English.value: "Questions? Do you need some help?" -->
+    <string name="help_questions">有问题吗？你需要帮助吗？</string>
+    <!-- Key: "dialog_title_easter_egg", English.value: "CDT: Hi!!" -->
+    <string name="dialog_title_easter_egg">CDT：嗨！</string>
+    <!-- Key: "dialog_msg_easter_egg", English.value: "Thanks for using CDT :)" -->
+    <string name="dialog_msg_easter_egg">感谢使用CDT :)</string>
+    <!-- Key: "lbl_version", English.value: "Version %1$s" -->
+    <string name="lbl_version">版本 %1$s</string>
+
+    <!-- Key: "title_activity_help", English.value: "Help" -->
+    <string name="title_activity_help">帮助</string>
+    <!-- Key: "title_activity_about", English.value: "About" -->
+    <string name="title_activity_about">关于</string>
+
+    <!-- Key: "title_activity_settings", English.value: "Settings" -->
+    <string name="title_activity_settings">设置</string>
+    <!-- Key: "title_activity_backup", English.value: "BACKUP / RESTORE" -->
+    <string name="title_activity_backup">备份 / 还原</string>
+    <!-- Key: "btn_backup", English.value: "Backup" -->
+    <string name="btn_backup">备份</string>
+    <!-- Key: "btn_restore", English.value: "Restore" -->
+    <string name="btn_restore">还原</string>
+    <!-- Key: "choose_bk_file", English.value: "Choose a backup file" -->
+    <string name="choose_bk_file">选择备份文件</string>
+    <!-- Key: "save_bk_file", English.value: "Save backup file" -->
+    <string name="save_bk_file">保存备份文件</string>
+    <!-- Key: "action_help", English.value: "Help" -->
+    <string name="action_help">帮助</string>
+    <!-- Key: "get_pro_version", English.value: "Get PRO version" -->
+    <string name="get_pro_version">获取专业版</string>
+    <!-- Key: "chooser_title_send_by", English.value: "Send by" -->
+    <string name="chooser_title_send_by">发送</string>
+    <!-- Key: "action_edit", English.value: "Edit" -->
+    <string name="action_edit">编辑</string>
+    <!-- Key: "get_pro", English.value: "GET PRO" -->
+    <string name="get_pro">获取专业</string>
+    <!-- Key: "get_pro_price", English.value: "GET PRO ( %1$s )" -->
+    <string name="get_pro_price">获取专业（%1$s）</string>
+    <!-- Key: "snackbar_details_and_delete_message", English.value: "Click for details OR swipe to delete." -->
+    <string name="snackbar_details_and_delete_message">单击以获取详细信息或滑动以删除。</string>
+    <!-- Key: "title_notification_pro_pack", English.value: "CDT: Update report" -->
+    <string name="title_notification_pro_pack">CDT：更新报告</string>
+    <!-- Key: "delete_event_title", English.value: "Delete event" -->
+    <string name="delete_event_title">删除事件</string>
+    <!-- Key: "pro_pack_activated", English.value: "Thanks! :) PRO Pack Activated!" -->
+    <string name="pro_pack_activated">谢谢！ :) PRO Pack已激活！</string>
+    <!-- Key: "pro_feature_locked", English.value: "This feature is available only in PRO pack. Do you want to get it?" -->
+    <string name="pro_feature_locked">此功能仅在PRO Pack中可用。你想得到吗？</string>
+    <!-- Key: "pro_feature_locked_max_events", English.value: "Only %1$s events can be active simultaneously in the free version. Create as many events as you like and get more features with the PRO pack." -->
+    <string name="pro_feature_locked_max_events">免费版本中只能同时激活 %1$s 个事件。通过PRO Pack创建任意数量的事件并获得更多功能。</string>
+    <!-- Key: "btn_know_more", English.value: "Know more" -->
+    <string name="btn_know_more">了解更多</string>
+    <!-- Key: "lbl_pro_ad", English.value: "Follow up as many events as you like with the PRO pack!" -->
+    <string name="lbl_pro_ad">PRO包中包含了您喜欢的所有活动！</string>
+    <!-- Key: "ORDER", English.value: "Sort order:" -->
+    <string name="ORDER">排序顺序：</string>
+    <!-- Key: "share", English.value: "SHARE" -->
+    <string name="share">分享</string>
+    <!-- Key: "action_settings", English.value: "Settings" -->
+    <string name="action_settings">设置</string>
+    <!-- Key: "share_app_message", English.value: "Do you want to share this app with your friends?" -->
+    <string name="share_app_message">您想与您的朋友分享这个程序吗？</string>
+    <!-- Key: "share_app_extra_text", English.value: "Hi, I\'m using CDT to remember my special events! Download the app and check it out: https://play.google.com/store/apps/details?id=tech.tcsolution.cdt" -->
+    <string name="share_app_extra_text">嗨，我正在使用CDT来记住我的特殊事件！下载该应用程序并进行检查：https://play.google.com/store/apps/details?id=tech.tcsolution.cdt</string>
+    <!-- Key: "answer_get", English.value: "Get PRO" -->
+    <string name="answer_get">获得PRO</string>
+    <!-- Key: "answer_cancel", English.value: "Cancel" -->
+    <string name="answer_cancel">取消</string>
+    <!-- Key: "answer_save", English.value: "Save" -->
+    <string name="answer_save">保存</string>
+    <!-- Key: "answer_yes_caps", English.value: "YES" -->
+    <string name="answer_yes_caps">是</string>
+    <!-- Key: "answer_cancel_caps", English.value: "CANCEL" -->
+    <string name="answer_cancel_caps" tools:ignore="ButtonCase">取消</string>
+    <!-- Key: "answer_later", English.value: "Later" -->
+    <string name="answer_later">以后</string>
+    <!-- Key: "pref_delete_confirmation", English.value: "Extra deletion confirmation" -->
+    <string name="pref_delete_confirmation">额外删除确认</string>
+    <!-- Key: "pref_delete_confirmation_summary", English.value: "Mark a checkbox before to delete an event" -->
+    <string name="pref_delete_confirmation_summary">标记一个复选框以删除事件</string>
+    <!-- Key: "pref_reset_all_button", English.value: "RESET DATA" -->
+    <string name="pref_reset_all_button">重置数据</string>
+    <!-- Key: "pref_reset_all_button_summary", English.value: "This will reset all app data" -->
+    <string name="pref_reset_all_button_summary">这将重置所有应用数据</string>
+    <!-- Key: "load", English.value: "Loading ... This may take a while if the device is restarting" -->
+    <string name="load" tools:ignore="TypographyEllipsis">正在加载...如果设备正在重启，则可能需要一段时间</string>
+    <!-- Key: "pref_heading_general", English.value: "‣ GENERAL" -->
+    <string name="pref_heading_general">‣一般</string>
+    <!-- Key: "pref_heading_pro", English.value: "★ PRO" -->
+    <string name="pref_heading_pro">★PRO</string>
+    <!-- Key: "lbl_active_events", English.value: "Active events" -->
+    <string name="lbl_active_events">活动事件</string>
+    <!-- Key: "lbl_past_events", English.value: "Past events" -->
+    <string name="lbl_past_events">过去的事件</string>
+    <!-- Key: "turn_on_notifications_message", English.value: "Notifications are important for a better user experience. Would you like to turn them on?" -->
+    <string name="turn_on_notifications_message">通知对于改善用户体验很重要。您要打开它们吗？</string>
+    <!-- Key: "turn_on_notifications_title", English.value: "Turn on notifications" -->
+    <string name="turn_on_notifications_title">开启通知</string>
+    <!-- Key: "lbl_title", English.value: "Title:" -->
+    <string name="lbl_title">标题：</string>
+    <!-- Key: "lbl_event_hint", English.value: "Event..." -->
+    <string name="lbl_event_hint" tools:ignore="TypographyEllipsis">活动...</string>
+    <!-- Key: "lbl_description_hint", English.value: "..." -->
+    <string name="lbl_description_hint" tools:ignore="TypographyEllipsis">...</string>
+    <!-- Key: "lbl_start_title", English.value: "Countdown timer" -->
+    <string name="lbl_start_title">倒数计时器</string>
+    <!-- Key: "lbl_category", English.value: "Category:" -->
+    <string name="lbl_category">类别：</string>
+    <!-- Key: "lbl_description", English.value: "Description:" -->
+    <string name="lbl_description">说明：</string>
+    <!-- Key: "lbl_start_date", English.value: "Start date:" -->
+    <string name="lbl_start_date">开始日期：</string>
+    <!-- Key: "lbl_finish_date", English.value: "Finish date:" -->
+    <string name="lbl_finish_date">完成日期：</string>
+    <!-- Key: "lbl_reminder_when", English.value: "Reminder:" -->
+    <string name="lbl_reminder_when">提醒：</string>
+    <!-- Key: "lbl_last_reminder_before_x_hours", English.value: "Last reminder" -->
+    <string name="lbl_last_reminder_before_x_hours">最后提醒</string>
+    <!-- Key: "lbl_last_reminder_before_x_hours_sub", English.value: "(Notify X hours before)" -->
+    <string name="lbl_last_reminder_before_x_hours_sub">( 在X小时前通知 )</string>
+    <!-- Key: "start", English.value: "START" -->
+    <string name="start">开始</string>
+    <!-- Key: "lbl_days_zero", English.value: "0 days" -->
+    <string name="lbl_days_zero">0天</string>
+
+    <plurals name="lbl_days">
+        <!-- Key: "lbl_days.one", English.value: "%1$s day" -->
+        <item quantity="one">%1$s天</item>
+        <!-- Key: "lbl_days.other", English.value: "%1$s days" -->
+        <item quantity="other">%1$s天</item>
+    </plurals>
+
+    <!-- Key: "lbl_reminder_when_daily", English.value: "Daily" -->
+    <string name="lbl_reminder_when_daily" tools:ignore="TypographyEllipsis">每天</string>
+    <!-- Key: "lbl_reminder_when_weekly_on_mondays", English.value: "Weekly (on Mondays)" -->
+    <string name="lbl_reminder_when_weekly_on_mondays" tools:ignore="TypographyEllipsis">每周（星期一）</string>
+    <!-- Key: "lbl_reminder_when_weekly_on_saturdays", English.value: "Weekly (on Saturdays)" -->
+    <string name="lbl_reminder_when_weekly_on_saturdays" tools:ignore="TypographyEllipsis">每周（在星期六）</string>
+    <!-- Key: "lbl_reminder_when_weekly_on_sundays", English.value: "Weekly (on Sundays)" -->
+    <string name="lbl_reminder_when_weekly_on_sundays" tools:ignore="TypographyEllipsis">每周（在星期天）</string>
+    <!-- Key: "lbl_reminder_when_monthly_first", English.value: "Monthly (on the first day)" -->
+    <string name="lbl_reminder_when_monthly_first" tools:ignore="TypographyEllipsis">每月（第一天）</string>
+    <!-- Key: "lbl_reminder_when_monthly_last", English.value: "Monthly (on the last day)" -->
+    <string name="lbl_reminder_when_monthly_last" tools:ignore="TypographyEllipsis">每月（最后一天）</string>
+    <!-- Key: "lbl_reminder_when_never", English.value: "Never" -->
+    <string name="lbl_reminder_when_never" tools:ignore="TypographyEllipsis">从不</string>
+    <!-- Key: "lbl_details", English.value: "Details" -->
+    <string name="lbl_details">详细</string>
+    <!-- Key: "title_activity_event_selection", English.value: "Select an event:" -->
+    <string name="title_activity_event_selection">选择一个事件：</string>
+    <!-- Key: "widget1_label", English.value: "1- General widget" -->
+    <string name="widget1_label">1-常规小部件</string>
+    <!-- Key: "widget2_label", English.value: "2- General widget" -->
+    <string name="widget2_label">2-常规小部件</string>
+    <!-- Key: "widget3_label", English.value: "3- 1x1 widget" -->
+    <string name="widget3_label" tools:ignore="TypographyDashes">3- 1x1小部件</string>
+    <!-- Key: "widget4_label", English.value: "4- 1x1 widget" -->
+    <string name="widget4_label" tools:ignore="TypographyDashes">4- 1x1小部件</string>
+    <!-- Key: "lbl_event_ended_on", English.value: "Ended on:" -->
+    <string name="lbl_event_ended_on">结束于：</string>
+
+    <!-- Key: "lbl_bg_work_notif_title", English.value: "Background work notification" -->
+    <string name="lbl_bg_work_notif_title">背景工作通知</string>
+    <!-- Key: "lbl_bg_work_notif_msg_part01", English.value: "There was a change in Android Oreo and every background service has to show its notification now." -->
+    <string name="lbl_bg_work_notif_msg_part01">Android Oreo发生了变化，每个后台服务都必须立即显示其通知。</string>
+    <!-- Key: "lbl_bg_work_notif_msg_part02", English.value: "Our app needs to monitor screen on/off state in background to work reliably and with low battery footprint. This monitoring consumes virtually no battery but we still have to show a fixed notification. Otherwise system will kill our app." -->
+    <string name="lbl_bg_work_notif_msg_part02">我们的应用程序需要在后台监控屏幕的开/关状态，以可靠地工作并且电池占用量少。这种监控实际上不消耗电池，但是我们仍然必须显示固定的通知。否则系统将杀死我们的应用程序。</string>
+    <!-- Key: "lbl_bg_work_notif_msg_part03", English.value: "Fortunately this notification can be turned off in notification settings." -->
+    <string name="lbl_bg_work_notif_msg_part03">幸运的是，此通知可以在通知设置中关闭。</string>
+    <!-- Key: "lbl_bg_work_notif_msg_part04", English.value: "Tap on [Notification settings] button bellow and you will be redirected to notification settings screen. Uncheck category notification called [Widget update service] to hide this notification." -->
+    <string name="lbl_bg_work_notif_msg_part04">点击下面的[Notification settings]按钮，您将被重定向到Notification Settings屏幕。取消选中名为[小部件更新服务]的类别通知以隐藏此通知。</string>
+    <!-- Key: "answer_close_caps", English.value: "CLOSE" -->
+    <string name="answer_close_caps">关闭</string>
+    <!-- Key: "answer_notif_settings_caps", English.value: "NOTIFICATION SETTINGS" -->
+    <string name="answer_notif_settings_caps">通知设置</string>
+    <!-- Key: "lbl_warning", English.value: "Warning" -->
+    <string name="lbl_warning">警告</string>
+    <!-- Key: "lbl_changes_done", English.value: "Changes done" -->
+    <string name="lbl_changes_done">已完成更改</string>
+    <!-- Key: "lbl_widget_update_selection_title", English.value: "Is the widget not updating?" -->
+    <string name="lbl_widget_update_selection_title">小部件没有更新吗？</string>
+    <!-- Key: "lbl_widget_update_selection_msg_part01", English.value: "Some divergence in updating the widget may eventually occur, but this divergence is usually less than 1 minute. If the counter value is more than 1 minute apart, this may help you." -->
+    <string name="lbl_widget_update_selection_msg_part01">:更新小部件可能最终会出现一些差异，但是这种差异通常少于1分钟。如果计数器值相隔1分钟以上，则可能会对您有所帮助。</string>
+    <!-- Key: "lbl_widget_update_selection_msg_part02", English.value: "This app can use 2 different technologies to update widgets on your home screen." -->
+    <string name="lbl_widget_update_selection_msg_part02">此应用程序可以使用2种不同的技术来更新主屏幕上的小部件。</string>
+    <!-- Key: "lbl_widget_update_selection_msg_part03", English.value: "If the current technology is not periodically updating the widgets properly, change the selection below." -->
+    <string name="lbl_widget_update_selection_msg_part03">如果当前技术不能定期正确地更新小部件，请更改以下选择。</string>
+    <!-- Key: "lbl_widget_update_selection_msg_part04", English.value: "undefined" -->
+    <string name="lbl_widget_update_selection_msg_part04">如果仍然无法正常运行（通常是运行Android 11的Samsung设备），请查看您的设备是否被列为可在后台杀死应用程序的设备，并查看可以采取的措施。请访问： <a href="https://dontkillmyapp.com/">https://dontkillmyapp.com/</a></string>
+    <!-- Key: "lbl_widget_update_selection_msg_part05", English.value: "If you still need some help, send us an email to:" -->
+    <string name="lbl_widget_update_selection_msg_part05">如果您仍然需要帮助，请给我们发送电子邮件至：</string>
+    <!-- Key: "lbl_widget_update_selection_msg_part06_notice", English.value: "This option will show a fixed notification on your Android. Tap this notification when or if it appears to get more details to remove it." -->
+    <string name="lbl_widget_update_selection_msg_part06_notice">:此选项将在您的Android上显示固定的通知。何时或是否出现以获取更多详细信息将其删除，请点击此通知。</string>
+    <!-- Key: "lbl_widget_update_silent_mode", English.value: "Silent mode (default)" -->
+    <string name="lbl_widget_update_silent_mode">静音模式（默认）</string>
+    <!-- Key: "lbl_widget_update_bg_svc_mode", English.value: "Background service" -->
+    <string name="lbl_widget_update_bg_svc_mode">背景服务</string>
+    <!-- Key: "lbl_bg_svc_notification_title", English.value: "Widget update service is running" -->
+    <string name="lbl_bg_svc_notification_title">Widget更新服务正在运行</string>
+    <!-- Key: "lbl_bg_svc_notification_body", English.value: "Tap here to get more info" -->
+    <string name="lbl_bg_svc_notification_body">点击此处获取更多信息</string>
+    <!-- Key: "title_activity_widget_update_selection", English.value: "Widget update" -->
+    <string name="title_activity_widget_update_selection">小部件更新</string>
+    <!-- Key: "title_activity_widget_bg_work_notice", English.value: "Background service" -->
+    <string name="title_activity_widget_bg_work_notice">背景服务</string>
+    <!-- Key: "lbl_use_dark_mode", English.value: "Use the dark mode" -->
+    <string name="lbl_use_dark_mode">使用黑暗模式</string>
+
+    <!-- Key: "pref_daily_notification_alarm", English.value: "Show notification at (hour)" -->
+    <string name="pref_daily_notification_alarm">在以下位置显示通知</string>
+    <!-- Key: "pref_show_daily_notifications", English.value: "Show notifications" -->
+    <string name="pref_show_daily_notifications">显示通知</string>
+
+    <!-- Key: "lbl_widget_on_home_screen", English.value: "How to add a widget on my home screen?" -->
+    <string name="lbl_widget_on_home_screen">如何在我的主屏幕上添加小部件？</string>
+    <!-- Key: "dialog_title_widget_on_home_screen", English.value: "Widget on my home screen" -->
+    <string name="dialog_title_widget_on_home_screen">我的主屏幕上的小部件</string>
+    <!-- Key: "dialog_msg_widget_on_home_screen", English.value: "From your Home screen, touch and hold an empty area, and then tap Widgets. Touch and hold CDT widget, and then drag it to the desired location." -->
+    <string name="dialog_msg_widget_on_home_screen">在主屏幕上，触摸并按住一个空白区域，然后点击“窗口小部件”。触摸并按住DWI小部件，然后将其拖动到所需位置。</string>
+
+    <!-- Key: "title_activity_change_theme", English.value: "Change theme" -->
+    <string name="title_activity_change_theme">改变主题</string>
+
+    <!-- Key: "app_update_msg_almost_finished", English.value: "Update almost finished!" -->
+    <string name="app_update_msg_almost_finished">更新快结束了！</string>
+    <!-- Key: "app_update_msg_almost_finished_button", English.value: "Restart" -->
+    <string name="app_update_msg_almost_finished_button">重新开始</string>
+
+    <!-- ############################### GET PRO PACK ############################### -->
+
+    <!-- Key: "title_get_pro_pack", English.value: "Get PRO pack" -->
+    <string name="title_get_pro_pack">获取专业包</string>
+    <!-- Key: "lbl01gpp", English.value: "Hi again," -->
+    <string name="lbl01gpp">嗨，</string>
+    <!-- Key: "lbl02gpp", English.value: "Enable all app features by getting the PRO pack!" -->
+    <string name="lbl02gpp">通过获取PRO Pack，启用所有应用程序功能！</string>
+    <!-- Key: "lbl03gpp", English.value: "⭐ PRO features:" -->
+    <string name="lbl03gpp">⭐PRO功能：</string>
+    <!-- EN RESOURCE NOT FOUND -->
+    <string name="lbl05gpp" translatable="false">‣</string>
+    <!-- Key: "lbl06gpp", English.value: "Follow up as many events as you want" -->
+    <string name="lbl06gpp">跟进您想要的事件</string>
+    <!-- Key: "lbl08gpp", English.value: "Edit past events" -->
+    <string name="lbl08gpp">编辑过去的事件</string>
+    <!-- Key: "lbl10gpp", English.value: "Backup and restore your events" -->
+    <string name="lbl10gpp">备份和还原事件</string>
+    <!-- Key: "lbl12gpp", English.value: "Use the dark mode" -->
+    <string name="lbl12gpp">使用黑暗模式</string>
+    <!-- Key: "lbl14gpp", English.value: "Get individual widgets (1x1)" -->
+    <string name="lbl14gpp">:获取单个小部件（1x1)</string>
+
+    <!-- Key: "lbl01gpp_faq", English.value: "FAQ" -->
+    <string name="lbl01gpp_faq">常见问题</string>
+    <!-- Key: "lbl02gpp_faq", English.value: "Is this one time payment?" -->
+    <string name="lbl02gpp_faq">这是一次付款吗？</string>
+    <!-- Key: "lbl03gpp_faq", English.value: "Yes, you only pay once and you will also have access to every PRO feature that will be added in the future." -->
+    <string name="lbl03gpp_faq">是的，您只需要支付一次，就可以使用将来将添加的每个PRO功能。</string>
+    <!-- Key: "lbl04gpp_faq", English.value: "Will it still work if I change the device?" -->
+    <string name="lbl04gpp_faq">如果我更换设备，它仍然可以工作吗？</string>
+    <!-- Key: "lbl05gpp_faq", English.value: "Yes, this payment is tied to yur Google account, so every device that is logged in to the same account will have access PRO features." -->
+    <string name="lbl05gpp_faq">是的，这笔款项与您的Google帐户相关联，因此，登录到同一帐户的每台设备都可以使用PRO功能。</string>
+
+    <!-- ############################### LVL ############################### -->
+
+    <!-- Key: "lvl_check_license", English.value: "Check license" -->
+    <string name="lvl_check_license">检查许可证</string>
+    <!-- Key: "lvl_checking_license", English.value: "Checking license..." -->
+    <string name="lvl_checking_license" tools:ignore="TypographyEllipsis">正在检查许可证...</string>
+    <!-- Key: "lvl_user_access_denied", English.value: "User access denied." -->
+    <string name="lvl_user_access_denied">用户访问被拒绝。</string>
+    <!-- Key: "lvl_user_access_allowed", English.value: "User access allowed." -->
+    <string name="lvl_user_access_allowed">允许用户访问。</string>
+    <!-- Key: "lvl_application_error", English.value: "Application error: %1$d" -->
+    <string name="lvl_application_error">应用程序错误：%1$d</string>
+
+    <!-- Key: "lvl_unlicensed_dialog_title", English.value: "Application not licensed" -->
+    <string name="lvl_unlicensed_dialog_title">申请未获许可</string>
+    <!-- Key: "lvl_unlicensed_dialog_body", English.value: "This application is not licensed." -->
+    <string name="lvl_unlicensed_dialog_body">此应用程序未经许可。</string>
+    <!-- Key: "lvl_unlicensed_dialog_retry_body", English.value: "Unable to validate license. Check to see if a network connection is available." -->
+    <string name="lvl_unlicensed_dialog_retry_body">无法验证许可证。检查网络连接是否可用。</string>
+    <!-- Key: "lvl_restore_access_button", English.value: "Restore Access" -->
+    <string name="lvl_restore_access_button">恢复访问</string>
+    <!-- Key: "lvl_btn_retry", English.value: "Retry" -->
+    <string name="lvl_btn_retry">重试</string>
+    <!-- Key: "lvl_btn_quit", English.value: "Exit" -->
+    <string name="lvl_btn_quit">出口</string>
+
+    <!-- ############################### MESSAGES ############################### -->
+
+    <!-- Key: "PLAY_SERVICES_NOT_SUPPORTED", English.value: "Your device does not support notification functionality." -->
+    <string name="PLAY_SERVICES_NOT_SUPPORTED">您的设备不支持通知功能。</string>
+    <!-- Key: "APP_WITHOUT_PERMISSIONS", English.value: "No permission to execute some operation." -->
+    <string name="APP_WITHOUT_PERMISSIONS">没有执行某些操作的权限。</string>
+    <!-- Key: "INTERNET_CONNECTION_PROBLEM", English.value: "Internet connection issues, please, check the connection." -->
+    <string name="INTERNET_CONNECTION_PROBLEM">互联网连接问题，请检查连接。</string>
+    <!-- Key: "INTERNET_CONNECTION_NOT_AVAILABLE", English.value: "Internet connection not available." -->
+    <string name="INTERNET_CONNECTION_NOT_AVAILABLE">Internet连接不可用。</string>
+
+    <!-- Key: "START_DATETIME_ERROR", English.value: "Start date must be greater than end date" -->
+    <string name="START_DATETIME_ERROR">开始日期必须晚于结束日期</string>
+    <!-- Key: "FINISH_DATETIME_ERROR", English.value: "End date must be greater than now" -->
+    <string name="FINISH_DATETIME_ERROR">结束日期必须大于现在</string>
+    <!-- Key: "RESET_ALL_DAYS_QUESTION", English.value: "Do you really want to reset all app data?" -->
+    <string name="RESET_ALL_DAYS_QUESTION">您真的要重置所有应用程序数据吗？</string>
+    <!-- Key: "ALL_DATA_RESET", English.value: "All data reset successfully." -->
+    <string name="ALL_DATA_RESET">所有数据重置成功。</string>
+    <!-- Key: "PROGRESS_NOTIFICATION_TEXT", English.value: "%1$s days left!" -->
+    <string name="PROGRESS_NOTIFICATION_TEXT">还剩%1$s天！</string>
+    <!-- Key: "PROGRESS_NOTIFICATION_TEXT_ONE_DAY", English.value: "1 day left!" -->
+    <string name="PROGRESS_NOTIFICATION_TEXT_ONE_DAY">仅剩1天！</string>
+    <!-- Key: "PROGRESS_NOTIFICATION_TEXT_ZERO_DAYS", English.value: "< 0 days left!" -->
+    <string name="PROGRESS_NOTIFICATION_TEXT_ZERO_DAYS">还剩不到0天！</string>
+
+    <!-- Key: "PROGRESS_NOTIFICATION_TITLE", English.value: "The days are passing by..." -->
+    <string name="PROGRESS_NOTIFICATION_TITLE" tools:ignore="TypographyEllipsis">日子过去了...</string>
+
+    <!-- Key: "THIS_FIELD_IS_MANDATORY", English.value: "This field is mandatory." -->
+    <string name="THIS_FIELD_IS_MANDATORY">此字段是必填字段。</string>
+    <!-- Key: "DELETE_EVENT_MESSAGE", English.value: "Are you sure to delete this event? This action cannot be undone!" -->
+    <string name="DELETE_EVENT_MESSAGE">您确定要删除此事件吗？此操作无法撤消！</string>
+    <!-- Key: "DELETE_EVENT_EXTRA_MESSAGE", English.value: "Are you really sure?" -->
+    <string name="DELETE_EVENT_EXTRA_MESSAGE">你确定吗</string>
+    <!-- Key: "DELETE_EVENT_EXTRA_CHECK_REQUIRED", English.value: "You need to mark the checkbox to continue." -->
+    <string name="DELETE_EVENT_EXTRA_CHECK_REQUIRED">您需要标记复选框以继续。</string>
+    <!-- Key: "DELETE_EVENT_SUCCESSFULLY", English.value: "Event deleted successfully" -->
+    <string name="DELETE_EVENT_SUCCESSFULLY">活动已成功删除</string>
+    <!-- Key: "REGISTER_STORED_IN_HISTORY", English.value: "Record stored in history" -->
+    <string name="REGISTER_STORED_IN_HISTORY">记录存储在历史记录中</string>
+
+    <!-- Key: "NEW_VERSION_TITLE", English.value: "New version" -->
+    <string name="NEW_VERSION_TITLE">新版本</string>
+    <!-- Key: "NEW_VERSION_1_0", English.value: "Hi!! 😃 A new widget is available! From a Home screen, touch and hold an empty area, and then tap Widgets. Touch and hold CDT widget, and then drag it to your desired location. 🙌" -->
+    <string name="NEW_VERSION_1_0">嗨！ 😃一个新的小部件可用！在主屏幕上，触摸并按住一个空白区域，然后点击“窗口小部件”。触摸并按住CDT小部件，然后将其拖动到所需的位置。 🙌</string>
+
+    <!-- Key: "BACKUP_SUCCESS", English.value: "Backup completed successfully!" -->
+    <string name="BACKUP_SUCCESS">备份成功完成！</string>
+    <!-- Key: "BACKUP_FAIL", English.value: "Backup failed" -->
+    <string name="BACKUP_FAIL">备份失败</string>
+    <!-- Key: "RESTORE_SUCCESS", English.value: "Restore completed successfully!" -->
+    <string name="RESTORE_SUCCESS">还原成功完成！</string>
+    <!-- Key: "RESTORE_FAIL", English.value: "Restore failed. Performing rollback..." -->
+    <string name="RESTORE_FAIL" tools:ignore="TypographyEllipsis">恢复失败。正在执行回滚...</string>
+    <!-- Key: "ROLLBACK_SUCCESS", English.value: "Rollback completed successfully!" -->
+    <string name="ROLLBACK_SUCCESS">回滚成功完成！</string>
+    <!-- Key: "ROLLBACK_FAIL", English.value: "Rollback failed" -->
+    <string name="ROLLBACK_FAIL">回滚失败</string>
+    <!-- Key: "INVALID_BK_FILE", English.value: "The chosen file is invalid or corrupted." -->
+    <string name="INVALID_BK_FILE">所选文件无效或损坏。</string>
+
+
+    <!-- Key: "MILESTONE_NOTIFICATION_CONTENT", English.value: "%1$s hours left for this event to arrive.\nEnd date: %2$s" -->
+    <string name="MILESTONE_NOTIFICATION_CONTENT">此活动还剩%1$s小时。\n结束日期：%2$s</string>
+    <!-- Key: "MILESTONE_NOTIFICATION_CONTENT_PAST_EVENT", English.value: "This event is over!\nEnd date: %1$s" -->
+    <string name="MILESTONE_NOTIFICATION_CONTENT_PAST_EVENT">活动结束！\n结束日期：%1$s</string>
+
+    <!-- Key: "ONLY_PRO_USERS_CAN_EDIT_PAST_EVENTS", English.value: "Only PRO users can edit past events. Get PRO pack." -->
+    <string name="ONLY_PRO_USERS_CAN_EDIT_PAST_EVENTS">只有PRO用户才能编辑过去的事件。获取PRO包。</string>
+
+    <!--  ############################### PURCHASE ############################### -->
+
+    <!-- Key: "hw_couldnt_load_products", English.value: "Couldn\'t load the products. Please, check your internet connection." -->
+    <string name="hw_couldnt_load_products">无法加载产品。请检查您的互联网连接。</string>
+    <!-- Key: "hw_order_cancelled", English.value: "This order has been canceled!" -->
+    <string name="hw_order_cancelled">该订单已被取消！</string>
+    <!-- Key: "hw_payment_successful_but_sign_failed", English.value: "Payment successful, but sign failed." -->
+    <string name="hw_payment_successful_but_sign_failed">付款成功，但签收失败。</string>
+    <!-- Key: "hw_payment_failed", English.value: "Payment failed." -->
+    <string name="hw_payment_failed">支付失败。</string>
+    <!-- Key: "hw_loading_product", English.value: "Loading..." -->
+    <string name="hw_loading_product" tools:ignore="TypographyEllipsis">载入中...</string>
+
+    <!-- ############################### RATE DIALOG ############################### -->
+
+    <!-- Key: "title_rate_dialog_message", English.value: "Rate CDT" -->
+    <string name="title_rate_dialog_message">评价CDT</string>
+    <!-- Key: "lbl01_rate", English.value: "If CDT is helping you somehow, please take a moment to rate it." -->
+    <string name="lbl01_rate">如果CDT在某种程度上帮助了您，请花点时间对其进行评分。</string>
+    <!-- Key: "lbl02_rate", English.value: "Every comment and review counts." -->
+    <string name="lbl02_rate">每个评论和评论都很重要。</string>
+    <!-- Key: "lbl03_rate", English.value: "Thanks for your support!" -->
+    <string name="lbl03_rate">谢谢你的支持！</string>
+    <!-- Key: "lbl04_rate", English.value: "Please select the number of stars to proceed." -->
+    <string name="lbl04_rate">请选择星级数以继续。</string>
+    <!-- Key: "lbl05_rate", English.value: "Thanks! Rate us on PlayStore." -->
+    <string name="lbl05_rate">谢谢！在PlayStore上为我们评分。</string>
+    <!-- Key: "lbl06_rate", English.value: "Thanks!" -->
+    <string name="lbl06_rate">谢谢！</string>
+    <!-- Key: "lbl07_rate", English.value: "Please rate us on PlayStore." -->
+    <string name="lbl07_rate">请在PlayStore上为我们评分。</string>
+
+    <!-- ############################### WELCOME DIALOG ############################### -->
+
+    <!-- Key: "title_welcome_dialog_message", English.value: "Welcome message" -->
+    <string name="title_welcome_dialog_message">欢迎留言</string>
+    <!-- Key: "lbl01", English.value: "Hi," -->
+    <string name="lbl01">你好</string>
+    <!-- Key: "lbl02", English.value: "Welcome to CDT!" -->
+    <string name="lbl02">欢迎来到CDT！</string>
+    <!-- Key: "lbl03", English.value: "With this app you can follow the most important events in your life. Want to know how many days are left for any event? Use the day countdown to help you:" -->
+    <string name="lbl03">有了这个程序，您可以关注生活中最重要的事件。是否想知道剩下多少天？使用天数倒计时可以帮助您：</string>
+    <!-- EN RESOURCE NOT FOUND -->
+    <string translatable="false" name="lbl05">•</string>
+    <!-- Key: "lbl06", English.value: "🎂 How many days until your birthday?" -->
+    <string name="lbl06">until直到你生日多少天？</string>
+    <!-- Key: "lbl08", English.value: "❤ How many days until your dating anniversary?" -->
+    <string name="lbl08">❤直到您的结婚纪念日多少天？</string>
+    <!-- Key: "lbl10", English.value: "📊 How many days until your work meeting?" -->
+    <string name="lbl10">📊距工作会议还有几天？</string>
+    <!-- Key: "lbl12", English.value: "👨‍👩‍👧‍👦 How many days until your family reunion?" -->
+    <string name="lbl12">until👩👧👦家人团聚多少天？</string>
+
+    <!-- Key: "lbl17", English.value: "We hope to help you never forget the most important dates!" -->
+    <string name="lbl17">我们希望能帮助您永远忘记最重要的日期！</string>
+    <!-- Key: "lbl18", English.value: "Let\'s start counting! ⏰" -->
+    <string name="lbl18">让我们开始计数！ ⏰</string>
+
+    <!-- ############################### WIDGET ############################### -->
+
+    <!-- Key: "widget_title", English.value: "CDT: Countdown timer" -->
+    <string name="widget_title">CDT：倒数计时器</string>
+</resources>
