@@ -6,16 +6,18 @@ The strings were mapped to this project so that users can report a translation e
 
 If you like our app and want to help us with translations, we would be very grateful. :)
 
+**IMPORTANT:** FORK the project, make the changes and then make a Pull request (PR) so we can validate it.
+
 ### Modifying key values for a language
 
 * Open the desired file and edit it changing some value specified in some line started with _"<string"_, _"<plurals"_ or _"<item"_
 * Do not change the lines started with _"&lt;!--"_
 
-> E.g.: *values-pt/strings.xml*  
+**E.g.:** *values-pt/strings.xml*  
 > &lt;!-- Key: "all_rights_reserved", English.value: "All rights reserved." --&gt;   
 > &lt;string name="all_rights_reserved"&gt;Todos os direitos reservado.&lt;/string&gt;  
 
-> Fixing a translation   
+**Fixing a translation**   
 > &lt;!-- Key: "all_rights_reserved", English.value: "All rights reserved." --&gt;   
 > &lt;string name="all_rights_reserved"&gt;Todos os direitos reservados.&lt;/string&gt; 
 
@@ -39,15 +41,15 @@ Currently the app has support for the following languages:
 
 ### Creating a translated idiom
 
-* Copy all file content present in *values-en/strings.xml* (English version)
+* Copy all file content present in *values-en/strings.xml* (English version) to a new file
 * Change all lines started with _"<string"_, _"<plurals"_ or _"<item"_
 * Do not change the lines started with _"&lt;!--"_
 
-> E.g.:  
+**E.g.:**  
 > &lt;!-- Key: "all_rights_reserved", English.value: "All rights reserved." --&gt;   
 > &lt;string name="all_rights_reserved"&gt;All rights reserved.&lt;/string&gt;  
 
-> Traslating into Portuguese  
+**Traslating into Portuguese**  
 > &lt;!-- Key: "all_rights_reserved", English.value: "All rights reserved." --&gt;   
 > &lt;string name="all_rights_reserved"&gt;Todos os direitos reservados.&lt;/string&gt;  
 
