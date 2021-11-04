@@ -6,7 +6,9 @@ The strings were mapped to this project so that users can report a translation e
 
 If you like our app and want to help us with translations, we would be very grateful. :)
 
-**IMPORTANT:** FORK the project, make the changes and then make a Pull request (PR) so we can validate it.
+**IMPORTANT:** FORK the project, make the changes and then make a Pull request (PR) so we can validate it.  
+  
+If you have any questions, please email us at [dev.tcsolution@gmail.com](mailto:dev.tcsolution@gmail.com)  
 
 ### Modifying key values for a language
 
